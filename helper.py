@@ -8,16 +8,16 @@ helper = """
     id:main
     MDBackdrop:
         padding  : [10,10,10,10]
-        id: backdrop    
-        right_action_items:[['play',lambda x:root.compile(),"run "]]   
-        title: "python_compiler"
+        id: backdrop
+        #back_layer_color:"000000"
+        #front_layer_color:"FFFFFF"    
+        right_action_items:[["folder",lambda x: root.file_manager_open(),"Open/Save"],['theme-light-dark',lambda x:app.teme(),"Change_Color"],['play',lambda x:root.compile(),"run "]]
+        title: "Py_compiler"
         radius_left: "30dp"
-
         radius_right: "30dp"
         header_text: "Editor"
 #this is my terminal
-        MyBackdropBackLayer:
-          
+        MDBackdropBackLayer:
             MyBackdropBackLayer:
                 id: backlayer
                 ScrollView:
@@ -31,7 +31,9 @@ helper = """
                         height : self.minimum_height
                         size_hint_y:None
 
-                 
+                        
+
+
 #this is my  editor
         MDBackdropFrontLayer:
             MyBackdropFrontLayer:
@@ -43,9 +45,11 @@ helper = """
                             id:input
                             multiline:True
                             text :root.code
+                            #foreground_color:"000000"
+                            #background_color:"FFFFFF"
                             height : root.height
                             size_hint_y:None
-                           
+                         
 
 
 """
