@@ -12,7 +12,7 @@ helper = """
         #back_layer_color:"000000"
         #front_layer_color:"FFFFFF"    
         right_action_items:[["folder",lambda x: root.file_manager_open(),"Open/Save"],['theme-light-dark',lambda x:app.teme(),"Change_Color"],['play',lambda x:root.compile(),"run "]]
-        title: "Py_compiler"
+        title: "Compiler"
         radius_left: "30dp"
         radius_right: "30dp"
         header_text: "Editor"
