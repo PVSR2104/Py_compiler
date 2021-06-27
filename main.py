@@ -58,20 +58,22 @@ class files(back):
          select_path=self.select_path,
         )
     def file_manager_open(self):
-        self.file_manager.show('/')  # output manager to the screen
+        self.file_manager.show(str(getcwd()))  # output manager to the screen
         self.manager_open = True
 #After selecting the path if its a file it writes the content to it file
 #if a folder is selected it will create a file code.py  and write the content in it into the code.py
 #must  
     def select_path(self, path):
         self.exit_manager()
-        toast(path)
+      
         try:
             self.ids.input.text = str(open(path,"r",encoding="utf8",errors="ignore").read())  
             toast("openinf the file "+path)
         except IsADirectoryError:
             self.savecode(self.code,path+"/code.py")
             toast("file saved"+path+"/code.py")
+        except PermissionError:
+            toast("This folder can't be used to save your code")
         
     def exit_manager(self, *args):
         self.manager_open = False
@@ -109,14 +111,14 @@ class python(MDApp):
 
 #for changing color pallets 
     def teme(self):
-        c  = choice(['Indigo', 'LightBlue', 'Teal', 'LightGreen', 'Lime', 'Amber',  'Brown', 'Gray', 'BlueGray'])
+        c = choice(['Red', 'Pink', 'Purple', 'DeepPurple', 'Indigo', 'Blue', 'LightBlue', 'Cyan', 'Teal', 'Green', 'LightGreen', 'Lime', 'Yellow', 'Amber', 'Orange', 'DeepOrange', 'Brown', 'Gray', 'BlueGray'])    
         self.theme_cls.primary_palette = c
         x = open("color.txt","w",encoding="utf8",errors="ignore")
         x.write(c)
         x.close
 #main building function from the helper string
     def build(self):
-        self.theme_cls.primary_palette = str(open('color.txt','r').read())
+        self.theme_cls.primary_palette = str(open('color.txt','r+').read())
         self.theme_cls.theme_style = "Light"
         Builder.load_string(helper.helper)
         return MainScreen()
