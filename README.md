@@ -6,3 +6,4 @@ primary pallet color can be changed by user by tapping the theme button .the pri
 privious state of primary color and input code is written in text file so that the same will be there after evry single boot up
 you can add any type of pip moudules for extension
 
+Modules used :Kivy==2.0.0,kivyMD,Pygements(code input),pillow,sdl2_ttf==2.0.15
