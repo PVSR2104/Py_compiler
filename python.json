@@ -1,0 +1,1852 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <script>
+window.dataLayer = window.dataLayer || [];
+dataLayer = [{"pageView":"login"}];
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NGWCJJQ');</script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name=viewport content="width=device-width, initial-scale=1.0">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="assets-hash" content="BIRTO09ure2URm9rMgPKfPuCeBxYbjtsxWa1bVmK"/>
+    <meta name="assets-path" content="https://assets3.lottiefiles.com"/>
+    <meta name="static-path" content="https://static.lottiefiles.com"/>
+
+    <meta name="content-language" content="en">
+    <meta name='locale' content='en'/>
+
+        <link rel="alternate" type="application/rss+xml" href="https://lottiefiles.com/feed" title="Recent Lottie Animations from Community">
+    <link rel="alternate" type="application/rss+xml" href="https://lottiefiles.com/feed/popular" title="Popular Lottie Animations from Community">
+    <link rel="alternate" type="application/rss+xml" href="https://lottiefiles.com/blog/feed" title="Recent Posts from LottieFiles">
+
+    <title>Free Lottie Animation Files, Tools & Plugins - LottieFiles</title>
+<meta name="description" content="The world’s largest online platform for the world’s smallest animation format for designers, developers, and more. Access Lottie animation tools and plugins for Android, iOS, and Web.">
+    <meta property="og:title" content="Free Lottie Animation Files, Tools & Plugins - LottieFiles" />
+<meta property="og:description" content="The world’s largest online platform for the world’s smallest animation format for designers, developers, and more. Access Lottie animation tools and plugins for Android, iOS, and Web." />
+<meta property="og:url" content="https://lottiefiles.com/login" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image" content="https://static.lottiefiles.com/featured_image/oxrdoEtVEfPg40PmNBpBhSFmCye0x3i0uv8Dd6IY.png" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@LottieFiles" />
+
+    <link rel="stylesheet" rel="preload" as="style" href="https://static1.lottiefiles.com/css/app.b7b5bb.css">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/favicons/site.webmanifest">
+
+    <link rel="preconnect" href="https://external.abtesting.ai">
+<link rel="preconnect" as="script" href="https://cdn.amplitude.com/libs/amplitude-7.2.1-min.gz.js" crossorigin>
+<link rel="dns-prefetch" href="https://connect.facebook.net">
+
+
+
+    <script src="https://js.abtesting.ai/ab.js?userid=2975"></script>
+
+    
+    
+    
+            <!-- Hotjar Tracking Code for https://lottiefiles.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1174719,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+        <script>
+    var ALGOLIA_INSIGHTS_SRC = "https://cdn.jsdelivr.net/npm/search-insights@1.6.3";
+
+    !function(e,a,t,n,s,i,c){e.AlgoliaAnalyticsObject=s,e[s]=e[s]||function(){
+    (e[s].queue=e[s].queue||[]).push(arguments)},i=a.createElement(t),c=a.getElementsByTagName(t)[0],
+    i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
+    }(window,document,"script",ALGOLIA_INSIGHTS_SRC,"aa");
+
+    aa('init', {
+    appId: "CRM5I9C2Z8",
+    apiKey: "7f78a9d98a5222792f2714fee8ee2446",
+  });
+</script>    
+    <script type="text/javascript">
+  (function(e,t){var n=e.amplitude||{_q:[],_iq:{}};var r=t.createElement("script")
+  ;r.type="text/javascript"
+  ;r.integrity="sha384-girahbTbYZ9tT03PWWj0mEVgyxtZoyDF9KVZdL+R53PP5wCY0PiVUKq0jeRlMx9M"
+  ;r.crossOrigin="anonymous";r.async=true
+  ;r.src="https://cdn.amplitude.com/libs/amplitude-7.2.1-min.gz.js"
+  ;r.onload=function(){if(!e.amplitude.runQueuedFunctions){
+  console.log("[Amplitude] Error: could not load SDK")}}
+  ;var i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)
+  ;function s(e,t){e.prototype[t]=function(){
+  this._q.push([t].concat(Array.prototype.slice.call(arguments,0)));return this}}
+  var o=function(){this._q=[];return this}
+  ;var a=["add","append","clearAll","prepend","set","setOnce","unset"]
+  ;for(var u=0;u<a.length;u++){s(o,a[u])}n.Identify=o;var c=function(){this._q=[]
+  ;return this}
+  ;var l=["setProductId","setQuantity","setPrice","setRevenueType","setEventProperties"]
+  ;for(var p=0;p<l.length;p++){s(c,l[p])}n.Revenue=c
+  ;var d=["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId", "enableTracking", "setGlobalUserProperties","identify","clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId","groupIdentify","onInit","logEventWithTimestamp","logEventWithGroups","setSessionId","resetSessionId"]
+  ;function v(e){function t(t){e[t]=function(){
+  e._q.push([t].concat(Array.prototype.slice.call(arguments,0)))}}
+  for(var n=0;n<d.length;n++){t(d[n])}}v(n);n.getInstance=function(e){
+  e=(!e||e.length===0?"$default_instance":e).toLowerCase()
+  ;if(!n._iq.hasOwnProperty(e)){n._iq[e]={_q:[]};v(n._iq[e])}return n._iq[e]}
+  ;e.amplitude=n})(window,document);
+  amplitude.getInstance().init("92dd3459e91268bfffd6866dd216bc54");
+</script>
+
+<script>
+    var pageUrl = window.location.pathname;
+    var eventProperties = {
+        'title': document.querySelector('title').innerHTML,
+        'url': pageUrl,
+    };
+        amplitude.getInstance().logEvent('pageview', eventProperties);
+
+    let signupEvent = null;
+    let loginEvent = null;
+    let logoutEvent = null;
+
+    if(signupEvent){
+        amplitude.getInstance().logEvent('Signup', signupEvent);
+    }
+    
+    if(loginEvent){
+        amplitude.getInstance().logEvent('Login', loginEvent);
+    }
+
+    if(logoutEvent){
+        amplitude.getInstance().logEvent('Logout');
+    }
+</script>
+    </head>
+
+<body class="">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGWCJJQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div id="app">
+         <div class=" fixed z-50 px-5 bg-lf-bg md:px-0 pin-t pin-l pin-r trans lf-header-container">
+    <header class="container mx-auto lf-header">
+
+        <div class="flex justify-between items-center h-full">
+
+            <div class="flex relative z-20 justify-between items-center w-1/2 h-full md:w-auto">
+                <a class="flex-no-shrink" href="https://lottiefiles.com/">
+
+                    <img class="lf-logo lf-logo-dark -mt-1" src="https://static.lottiefiles.com/images/v3/lottiefiles-logo.svg" alt="Lottiefiles Logo">
+                    <img class="lf-logo lf-logo-white -mt-1" src="https://static.lottiefiles.com/images/v3/lf-logo-white.svg" alt="Lottiefiles Logo">
+
+                    <!--
+                    <lottie-player autoplay
+                                   id="lottieLogo"
+                                   alt="LottieFiles Logo"
+                                   style="width: 170px;"
+                                   src="https://static7.lottiefiles.com/lotties/chineseny21_2ele7xu2.json"></lottie-player>
+                                   -->
+                </a>
+
+            </div>
+
+            <div class="flex z-10 flex-col-reverse justify-end items-end w-full nav-container bg-lf-bg pin-l pin-t pin-b md:flex-row md:items-center">
+
+                <nav class="self-end w-full sm:ml-16">
+                    <ul class="flex flex-col justify-center items-center nav-list list-reset md:flex-row">
+
+                                                    <li class="nav-orange nav-list-item nav-list-item-0 w-full cursor-pointer md:w-auto md:px-2 xl:px-4 md:py-3 text-grey-darker">
+                                <div onclick="toggleMenuNav(0)" class="flex justify-between items-center py-3 px-5 w-full md:py-0 md:px-0">
+                                    <span class="mr-2 text-base nav-title">Discover</span>
+                                    <div class="arrow flex items-center justify-center">
+                                        <svg class="md:mt-1" width="11" height="6" viewBox="0 0 11 6" fill="none"
+                                             xmlns="http://www.w3.org/2000/svg">
+                                            <path
+                                                d="M2.03243 0.261745L5.50447 3.73379L8.97651 0.261745C9.3255 -0.0872484 9.88926 -0.0872484 10.2383 0.261745C10.5872 0.610739 10.5872 1.1745 10.2383 1.52349L6.13087 5.63088C5.78187 5.97987 5.21811 5.97987 4.86912 5.63088L0.761732 1.52349C0.594168 1.3563 0.5 1.12932 0.5 0.892619C0.5 0.655913 0.594168 0.428933 0.761732 0.261745C1.11073 -0.0782999 1.68343 -0.0872484 2.03243 0.261745Z"/>
+                                        </svg>
+                                    </div>
+                                </div>
+
+                                <div class="z-10 w-full shadow-sm sub-nav md:absolute pin-t pin-l">
+                                    <div class="container flex flex-col py-5 sm:py-10 mx-auto md:flex-row">
+
+                                        <div
+                                            class="w-full md:w-2/3 flex flex-wrap nav-cards flex px-3 mb-2 md:mb-0">
+                                            
+                                                    <a href="/featured"
+                                                        class="flex items-center md:items-start w-full md:w-1/2 nav-cards-item px-0 md:px-6 mb-3 md:mb-8">
+                                                        <div class="flex justify-center items-center mr-3 w-8 h-8 flex-no-shrink">
+                                                            <img src="https://static.lottiefiles.com/images/v3/lf-menu-free-animations.svg" alt="">
+                                                        </div>
+                                                        <div>
+                                                            <h4 class="text-lg font-normal font-lf-semi-bold md:text-xl text-grey-darkest md:mb-2 trans">Free Animations</h4>
+                                                            <p class="hidden text-base leading-normal md:inline text-grey-dark trans">Designs created by the community for the community</p>
+                                                        </div>
+                                                    </a>
+
+                                            
+                                                    <a href="/marketplace"
+                                                        class="flex items-center md:items-start w-full md:w-1/2 nav-cards-item px-0 md:px-6 mb-3 md:mb-8">
+                                                        <div class="flex justify-center items-center mr-3 w-8 h-8 flex-no-shrink">
+                                                            <img src="https://static.lottiefiles.com/images/v3/lf-menu-marketplace.svg" alt="">
+                                                        </div>
+                                                        <div>
+                                                            <h4 class="text-lg font-normal font-lf-semi-bold md:text-xl text-grey-darkest md:mb-2 trans">Marketplace</h4>
+                                                            <p class="hidden text-base leading-normal md:inline text-grey-dark trans">Buy and sell premium Lottie animations</p>
+                                                        </div>
+                                                    </a>
+
+                                            
+                                                    <a href="/marketplace/animators"
+                                                        class="flex items-center md:items-start w-full md:w-1/2 nav-cards-item px-0 md:px-6 mb-3 md:mb-8">
+                                                        <div class="flex justify-center items-center mr-3 w-8 h-8 flex-no-shrink">
+                                                            <img src="https://static.lottiefiles.com/images/v3/lf-menu-hire-animators.svg" alt="">
+                                                        </div>
+                                                        <div>
+                                                            <h4 class="text-lg font-normal font-lf-semi-bold md:text-xl text-grey-darkest md:mb-2 trans">Hire Animators</h4>
+                                                            <p class="hidden text-base leading-normal md:inline text-grey-dark trans">Discover great designers and even hire one for custom Lottie work</p>
+                                                        </div>
+                                                    </a>
+
+                                            
+                                                    <a href="/showcase"
+                                                        class="flex items-center md:items-start w-full md:w-1/2 nav-cards-item px-0 md:px-6 mb-3 md:mb-8">
+                                                        <div class="flex justify-center items-center mr-3 w-8 h-8 flex-no-shrink">
+                                                            <img src="https://static.lottiefiles.com/images/v3/lf-menu-showcase.svg" alt="">
+                                                        </div>
+                                                        <div>
+                                                            <h4 class="text-lg font-normal font-lf-semi-bold md:text-xl text-grey-darkest md:mb-2 trans">Showcase</h4>
+                                                            <p class="hidden text-base leading-normal md:inline text-grey-dark trans">Uncover the great products that have been #BuiltWithLottie</p>
+                                                        </div>
+                                                    </a>
+
+                                                                                    </div>
+
+                                                                                    <div class="px-3 w-full md:w-1/3">
+                                                <ul class="flex flex-wrap list-reset">
+                                                                                                            <li class="px-2 mb-3 w-1/2 text-sm md:w-full">
+                                                            <a class="flex items-center text-grey-dark hover:text-lf-teal text-base" href="/community">
+                                                                <span>Community</span>
+                                                                                                                                    <span class="text-white uppercase font-lf-semi-bold ml-1 rounded-sm" style="padding: 2px 3px; font-size: 10px; background-color: #1fa4ab;">new</span>
+                                                                                                                            </a>
+                                                        </li>
+                                                                                                            <li class="px-2 mb-3 w-1/2 text-sm md:w-full">
+                                                            <a class="flex items-center text-grey-dark hover:text-lf-teal text-base" href="/animated-stickers">
+                                                                <span>Telegram sticker packs</span>
+                                                                                                                            </a>
+                                                        </li>
+                                                                                                            <li class="px-2 mb-3 w-1/2 text-sm md:w-full">
+                                                            <a class="flex items-center text-grey-dark hover:text-lf-teal text-base" href="/marketplace/join">
+                                                                <span>Sell animations</span>
+                                                                                                                            </a>
+                                                        </li>
+                                                                                                            <li class="px-2 mb-3 w-1/2 text-sm md:w-full">
+                                                            <a class="flex items-center text-grey-dark hover:text-lf-teal text-base" href="/page/upload-guidelines">
+                                                                <span>Upload guidelines</span>
+                                                                                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </div>
+                                                                            </div>
+
+                                </div>
+
+
+                            </li>
+                                                    <li class="nav-green nav-list-item nav-list-item-1 w-full cursor-pointer md:w-auto md:px-2 xl:px-4 md:py-3 text-grey-darker">
+                                <div onclick="toggleMenuNav(1)" class="flex justify-between items-center py-3 px-5 w-full md:py-0 md:px-0">
+                                    <span class="mr-2 text-base nav-title">Design</span>
+                                    <div class="arrow flex items-center justify-center">
+                                        <svg class="md:mt-1" width="11" height="6" viewBox="0 0 11 6" fill="none"
+                                             xmlns="http://www.w3.org/2000/svg">
+                                            <path
+                                                d="M2.03243 0.261745L5.50447 3.73379L8.97651 0.261745C9.3255 -0.0872484 9.88926 -0.0872484 10.2383 0.261745C10.5872 0.610739 10.5872 1.1745 10.2383 1.52349L6.13087 5.63088C5.78187 5.97987 5.21811 5.97987 4.86912 5.63088L0.761732 1.52349C0.594168 1.3563 0.5 1.12932 0.5 0.892619C0.5 0.655913 0.594168 0.428933 0.761732 0.261745C1.11073 -0.0782999 1.68343 -0.0872484 2.03243 0.261745Z"/>
+                                        </svg>
+                                    </div>
+                                </div>
+
+                                <div class="z-10 w-full shadow-sm sub-nav md:absolute pin-t pin-l">
+                                    <div class="container flex flex-col py-5 sm:py-10 mx-auto md:flex-row">
+
+                                        <div
+                                            class="w-full md:w-2/3 flex flex-wrap nav-cards flex px-3 mb-2 md:mb-0">
+                                            
+                                                    <a href="/preview"
+                                                        class="flex items-center md:items-start w-full md:w-1/2 nav-cards-item px-0 md:px-6 mb-3 md:mb-8">
+                                                        <div class="flex justify-center items-center mr-3 w-8 h-8 flex-no-shrink">
+                                                            <img src="https://static.lottiefiles.com/images/v3/lf-menu-preview.svg" alt="">
+                                                        </div>
+                                                        <div>
+                                                            <h4 class="text-lg font-normal font-lf-semi-bold md:text-xl text-grey-darkest md:mb-2 trans">Preview</h4>
+                                                            <p class="hidden text-base leading-normal md:inline text-grey-dark trans">Test your Lottie animation work on web and mobile</p>
+                                                        </div>
+                                                    </a>
+
+                                            
+                                                    <a href="/plugins/after-effects"
+                                                        class="flex items-center md:items-start w-full md:w-1/2 nav-cards-item px-0 md:px-6 mb-3 md:mb-8">
+                                                        <div class="flex justify-center items-center mr-3 w-8 h-8 flex-no-shrink">
+                                                            <img src="https://static.lottiefiles.com/images/v3/lf-menu-create-with-ae.svg" alt="">
+                                                        </div>
+                                                        <div>
+                                                            <h4 class="text-lg font-normal font-lf-semi-bold md:text-xl text-grey-darkest md:mb-2 trans">Create with Adobe After Effects</h4>
+                                                            <p class="hidden text-base leading-normal md:inline text-grey-dark trans">Make Lottie animations with LottieFiles plugin for Adobe After Effects</p>
+                                                        </div>
+                                                    </a>
+
+                                            
+                                                    <a href="/editor"
+                                                        class="flex items-center md:items-start w-full md:w-1/2 nav-cards-item px-0 md:px-6 mb-3 md:mb-8">
+                                                        <div class="flex justify-center items-center mr-3 w-8 h-8 flex-no-shrink">
+                                                            <img src="https://static.lottiefiles.com/images/v3/lf-menu-editor.svg" alt="">
+                                                        </div>
+                                                        <div>
+                                                            <h4 class="text-lg font-normal font-lf-semi-bold md:text-xl text-grey-darkest md:mb-2 trans">Editor</h4>
+                                                            <p class="hidden text-base leading-normal md:inline text-grey-dark trans">Tweak Lottie animations without Adobe After Effects</p>
+                                                        </div>
+                                                    </a>
+
+                                            
+                                                    <a href="/integrations"
+                                                        class="flex items-center md:items-start w-full md:w-1/2 nav-cards-item px-0 md:px-6 mb-3 md:mb-8">
+                                                        <div class="flex justify-center items-center mr-3 w-8 h-8 flex-no-shrink">
+                                                            <img src="https://static.lottiefiles.com/images/v3/lf-menu-integrations-design.svg" alt="">
+                                                        </div>
+                                                        <div>
+                                                            <h4 class="text-lg font-normal font-lf-semi-bold md:text-xl text-grey-darkest md:mb-2 trans">Integrations</h4>
+                                                            <p class="hidden text-base leading-normal md:inline text-grey-dark trans">Lottie plugins for the tools you’re already using</p>
+                                                        </div>
+                                                    </a>
+
+                                                                                    </div>
+
+                                                                                    <div class="px-3 w-full md:w-1/3">
+                                                <ul class="flex flex-wrap list-reset">
+                                                                                                            <li class="px-2 mb-3 w-1/2 text-sm md:w-full">
+                                                            <a class="flex items-center text-grey-dark hover:text-lf-teal text-base" href="/mobile">
+                                                                <span>LottieFiles Mobile</span>
+                                                                                                                            </a>
+                                                        </li>
+                                                                                                            <li class="px-2 mb-3 w-1/2 text-sm md:w-full">
+                                                            <a class="flex items-center text-grey-dark hover:text-lf-teal text-base" href="/desktop">
+                                                                <span>LottieFiles Desktop</span>
+                                                                                                                            </a>
+                                                        </li>
+                                                                                                            <li class="px-2 mb-3 w-1/2 text-sm md:w-full">
+                                                            <a class="flex items-center text-grey-dark hover:text-lf-teal text-base" href="/svg-to-lottie">
+                                                                <span>Convert SVG to Lottie</span>
+                                                                                                                            </a>
+                                                        </li>
+                                                                                                            <li class="px-2 mb-3 w-1/2 text-sm md:w-full">
+                                                            <a class="flex items-center text-grey-dark hover:text-lf-teal text-base" href="/lottie-to-gif">
+                                                                <span>Convert Lottie to GIF</span>
+                                                                                                                            </a>
+                                                        </li>
+                                                                                                            <li class="px-2 mb-3 w-1/2 text-sm md:w-full">
+                                                            <a class="flex items-center text-grey-dark hover:text-lf-teal text-base" href="/figma">
+                                                                <span>Figma plugin</span>
+                                                                                                                            </a>
+                                                        </li>
+                                                                                                            <li class="px-2 mb-3 w-1/2 text-sm md:w-full">
+                                                            <a class="flex items-center text-grey-dark hover:text-lf-teal text-base" href="/blog/updates">
+                                                                <span>Product updates</span>
+                                                                                                                            </a>
+                                                        </li>
+                                                                                                            <li class="px-2 mb-3 w-1/2 text-sm md:w-full">
+                                                            <a class="flex items-center text-grey-dark hover:text-lf-teal text-base" href="https://lottiefiles.zendesk.com">
+                                                                <span>FAQ &amp; Support</span>
+                                                                                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </div>
+                                                                            </div>
+
+                                </div>
+
+
+                            </li>
+                                                    <li class="nav-blue nav-list-item nav-list-item-2 w-full cursor-pointer md:w-auto md:px-2 xl:px-4 md:py-3 text-grey-darker">
+                                <div onclick="toggleMenuNav(2)" class="flex justify-between items-center py-3 px-5 w-full md:py-0 md:px-0">
+                                    <span class="mr-2 text-base nav-title">Code</span>
+                                    <div class="arrow flex items-center justify-center">
+                                        <svg class="md:mt-1" width="11" height="6" viewBox="0 0 11 6" fill="none"
+                                             xmlns="http://www.w3.org/2000/svg">
+                                            <path
+                                                d="M2.03243 0.261745L5.50447 3.73379L8.97651 0.261745C9.3255 -0.0872484 9.88926 -0.0872484 10.2383 0.261745C10.5872 0.610739 10.5872 1.1745 10.2383 1.52349L6.13087 5.63088C5.78187 5.97987 5.21811 5.97987 4.86912 5.63088L0.761732 1.52349C0.594168 1.3563 0.5 1.12932 0.5 0.892619C0.5 0.655913 0.594168 0.428933 0.761732 0.261745C1.11073 -0.0782999 1.68343 -0.0872484 2.03243 0.261745Z"/>
+                                        </svg>
+                                    </div>
+                                </div>
+
+                                <div class="z-10 w-full shadow-sm sub-nav md:absolute pin-t pin-l">
+                                    <div class="container flex flex-col py-5 sm:py-10 mx-auto md:flex-row">
+
+                                        <div
+                                            class="w-full md:w-2/3 flex flex-wrap nav-cards flex px-3 mb-2 md:mb-0">
+                                            
+                                                    <a href="/web-player"
+                                                        class="flex items-center md:items-start w-full md:w-1/2 nav-cards-item px-0 md:px-6 mb-3 md:mb-8">
+                                                        <div class="flex justify-center items-center mr-3 w-8 h-8 flex-no-shrink">
+                                                            <img src="https://static.lottiefiles.com/images/v3/lf-menu-web-player.svg" alt="">
+                                                        </div>
+                                                        <div>
+                                                            <h4 class="text-lg font-normal font-lf-semi-bold md:text-xl text-grey-darkest md:mb-2 trans">Web Player</h4>
+                                                            <p class="hidden text-base leading-normal md:inline text-grey-dark trans">Perfect for adding Lottie animations to web</p>
+                                                        </div>
+                                                    </a>
+
+                                            
+                                                    <a href="https://github.com/lottiefiles"
+                                                        class="flex items-center md:items-start w-full md:w-1/2 nav-cards-item px-0 md:px-6 mb-3 md:mb-8">
+                                                        <div class="flex justify-center items-center mr-3 w-8 h-8 flex-no-shrink">
+                                                            <img src="https://static.lottiefiles.com/images/v3/lf-menu-open-source.svg" alt="">
+                                                        </div>
+                                                        <div>
+                                                            <h4 class="text-lg font-normal font-lf-semi-bold md:text-xl text-grey-darkest md:mb-2 trans">Open Source</h4>
+                                                            <p class="hidden text-base leading-normal md:inline text-grey-dark trans">All our public GitHub repositories available for use and contribution</p>
+                                                        </div>
+                                                    </a>
+
+                                            
+                                                    <a href="/tools/json-editor"
+                                                        class="flex items-center md:items-start w-full md:w-1/2 nav-cards-item px-0 md:px-6 mb-3 md:mb-8">
+                                                        <div class="flex justify-center items-center mr-3 w-8 h-8 flex-no-shrink">
+                                                            <img src="https://static.lottiefiles.com/images/v3/lf-menu-json-editor.svg" alt="">
+                                                        </div>
+                                                        <div>
+                                                            <h4 class="text-lg font-normal font-lf-semi-bold md:text-xl text-grey-darkest md:mb-2 trans">JSON Editor</h4>
+                                                            <p class="hidden text-base leading-normal md:inline text-grey-dark trans">Adjust your Lottie code from the inside-out</p>
+                                                        </div>
+                                                    </a>
+
+                                            
+                                                    <a href="/integrations"
+                                                        class="flex items-center md:items-start w-full md:w-1/2 nav-cards-item px-0 md:px-6 mb-3 md:mb-8">
+                                                        <div class="flex justify-center items-center mr-3 w-8 h-8 flex-no-shrink">
+                                                            <img src="https://static.lottiefiles.com/images/v3/lf-menu-integrations.svg" alt="">
+                                                        </div>
+                                                        <div>
+                                                            <h4 class="text-lg font-normal font-lf-semi-bold md:text-xl text-grey-darkest md:mb-2 trans">Integrations</h4>
+                                                            <p class="hidden text-base leading-normal md:inline text-grey-dark trans">Lottie plugins for the tools you’re already using</p>
+                                                        </div>
+                                                    </a>
+
+                                                                                    </div>
+
+                                                                                    <div class="px-3 w-full md:w-1/3">
+                                                <ul class="flex flex-wrap list-reset">
+                                                                                                            <li class="px-2 mb-3 w-1/2 text-sm md:w-full">
+                                                            <a class="flex items-center text-grey-dark hover:text-lf-teal text-base" href="/mobile">
+                                                                <span>LottieFiles Mobile</span>
+                                                                                                                            </a>
+                                                        </li>
+                                                                                                            <li class="px-2 mb-3 w-1/2 text-sm md:w-full">
+                                                            <a class="flex items-center text-grey-dark hover:text-lf-teal text-base" href="/desktop">
+                                                                <span>LottieFiles Desktop</span>
+                                                                                                                            </a>
+                                                        </li>
+                                                                                                            <li class="px-2 mb-3 w-1/2 text-sm md:w-full">
+                                                            <a class="flex items-center text-grey-dark hover:text-lf-teal text-base" href="/interactivity">
+                                                                <span>Interactivity Guide</span>
+                                                                                                                            </a>
+                                                        </li>
+                                                                                                            <li class="px-2 mb-3 w-1/2 text-sm md:w-full">
+                                                            <a class="flex items-center text-grey-dark hover:text-lf-teal text-base" href="/blog/updates">
+                                                                <span>Product updates</span>
+                                                                                                                            </a>
+                                                        </li>
+                                                                                                            <li class="px-2 mb-3 w-1/2 text-sm md:w-full">
+                                                            <a class="flex items-center text-grey-dark hover:text-lf-teal text-base" href="https://lottiefiles.zendesk.com">
+                                                                <span>FAQ &amp; Support</span>
+                                                                                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </div>
+                                                                            </div>
+
+                                </div>
+
+
+                            </li>
+                                                    <li class="nav-purple nav-list-item nav-list-item-3 w-full cursor-pointer md:w-auto md:px-2 xl:px-4 md:py-3 text-grey-darker">
+                                <div onclick="toggleMenuNav(3)" class="flex justify-between items-center py-3 px-5 w-full md:py-0 md:px-0">
+                                    <span class="mr-2 text-base nav-title">Learn</span>
+                                    <div class="arrow flex items-center justify-center">
+                                        <svg class="md:mt-1" width="11" height="6" viewBox="0 0 11 6" fill="none"
+                                             xmlns="http://www.w3.org/2000/svg">
+                                            <path
+                                                d="M2.03243 0.261745L5.50447 3.73379L8.97651 0.261745C9.3255 -0.0872484 9.88926 -0.0872484 10.2383 0.261745C10.5872 0.610739 10.5872 1.1745 10.2383 1.52349L6.13087 5.63088C5.78187 5.97987 5.21811 5.97987 4.86912 5.63088L0.761732 1.52349C0.594168 1.3563 0.5 1.12932 0.5 0.892619C0.5 0.655913 0.594168 0.428933 0.761732 0.261745C1.11073 -0.0782999 1.68343 -0.0872484 2.03243 0.261745Z"/>
+                                        </svg>
+                                    </div>
+                                </div>
+
+                                <div class="z-10 w-full shadow-sm sub-nav md:absolute pin-t pin-l">
+                                    <div class="container flex flex-col py-5 sm:py-10 mx-auto md:flex-row">
+
+                                        <div
+                                            class="w-full flex flex-wrap nav-cards flex px-3 mb-2 md:mb-0">
+                                            
+                                                    <a href="/blog"
+                                                        class="flex items-center md:items-start w-full md:w-1/2 md:w-1/3 nav-cards-item px-0 md:px-6 mb-3 md:mb-8">
+                                                        <div class="flex justify-center items-center mr-3 w-8 h-8 flex-no-shrink">
+                                                            <img src="https://static.lottiefiles.com/images/v3/lf-menu-blog.svg" alt="">
+                                                        </div>
+                                                        <div>
+                                                            <h4 class="text-lg font-normal font-lf-semi-bold md:text-xl text-grey-darkest md:mb-2 trans">Blog</h4>
+                                                            <p class="hidden text-base leading-normal md:inline text-grey-dark trans">How-to guides, interviews, articles, and more</p>
+                                                        </div>
+                                                    </a>
+
+                                            
+                                                    <a href="/what-is-lottie"
+                                                        class="flex items-center md:items-start w-full md:w-1/2 md:w-1/3 nav-cards-item px-0 md:px-6 mb-3 md:mb-8">
+                                                        <div class="flex justify-center items-center mr-3 w-8 h-8 flex-no-shrink">
+                                                            <img src="https://static.lottiefiles.com/images/v3/lf-menu-what-is-lottie.svg" alt="">
+                                                        </div>
+                                                        <div>
+                                                            <h4 class="text-lg font-normal font-lf-semi-bold md:text-xl text-grey-darkest md:mb-2 trans">What is Lottie</h4>
+                                                            <p class="hidden text-base leading-normal md:inline text-grey-dark trans">A comprehensive guide to this powerful little format</p>
+                                                        </div>
+                                                    </a>
+
+                                            
+                                                    <a href="/blog/updates"
+                                                        class="flex items-center md:items-start w-full md:w-1/2 md:w-1/3 nav-cards-item px-0 md:px-6 mb-3 md:mb-8">
+                                                        <div class="flex justify-center items-center mr-3 w-8 h-8 flex-no-shrink">
+                                                            <img src="https://static.lottiefiles.com/images/v3/lf-menu-product-updates.svg" alt="">
+                                                        </div>
+                                                        <div>
+                                                            <h4 class="text-lg font-normal font-lf-semi-bold md:text-xl text-grey-darkest md:mb-2 trans">Product updates</h4>
+                                                            <p class="hidden text-base leading-normal md:inline text-grey-dark trans">Stay up-to-date with our latest tools for working with Lottie</p>
+                                                        </div>
+                                                    </a>
+
+                                            
+                                                    <a href="https://lottiefiles.zendesk.com"
+                                                        class="flex items-center md:items-start w-full md:w-1/2 md:w-1/3 nav-cards-item px-0 md:px-6 mb-3 md:mb-8">
+                                                        <div class="flex justify-center items-center mr-3 w-8 h-8 flex-no-shrink">
+                                                            <img src="https://static.lottiefiles.com/images/v3/lf-menu-faq-support.svg" alt="">
+                                                        </div>
+                                                        <div>
+                                                            <h4 class="text-lg font-normal font-lf-semi-bold md:text-xl text-grey-darkest md:mb-2 trans">FAQ &amp; Support</h4>
+                                                            <p class="hidden text-base leading-normal md:inline text-grey-dark trans">Get your questions answered</p>
+                                                        </div>
+                                                    </a>
+
+                                            
+                                                    <a href="/course"
+                                                        class="flex items-center md:items-start w-full md:w-1/2 md:w-1/3 nav-cards-item px-0 md:px-6 mb-3 md:mb-8">
+                                                        <div class="flex justify-center items-center mr-3 w-8 h-8 flex-no-shrink">
+                                                            <img src="https://static.lottiefiles.com/images/v3/lf-menu-courses.svg" alt="">
+                                                        </div>
+                                                        <div>
+                                                            <h4 class="text-lg font-normal font-lf-semi-bold md:text-xl text-grey-darkest md:mb-2 trans">Courses</h4>
+                                                            <p class="hidden text-base leading-normal md:inline text-grey-dark trans">Learn from the Lottie experts</p>
+                                                        </div>
+                                                    </a>
+
+                                            
+                                                    <a href="https://forum.lottiefiles.com"
+                                                        class="flex items-center md:items-start w-full md:w-1/2 md:w-1/3 nav-cards-item px-0 md:px-6 mb-3 md:mb-8">
+                                                        <div class="flex justify-center items-center mr-3 w-8 h-8 flex-no-shrink">
+                                                            <img src="https://static.lottiefiles.com/images/v3/lf-menu-forum.svg" alt="">
+                                                        </div>
+                                                        <div>
+                                                            <h4 class="text-lg font-normal font-lf-semi-bold md:text-xl text-grey-darkest md:mb-2 trans">Forum</h4>
+                                                            <p class="hidden text-base leading-normal md:inline text-grey-dark trans">Where those who work with Lottie can come together</p>
+                                                        </div>
+                                                    </a>
+
+                                                                                    </div>
+
+                                                                            </div>
+
+                                </div>
+
+
+                            </li>
+                                            </ul>
+
+                </nav>
+
+                <div class="search-input w-full mr-0 px-4 md:px-0">
+                                            <lf-search-input></lf-search-input>
+                                    </div>
+
+                <div class="absolute pin-r pin-t p-4 m-nav-container flex items-center -mr-3 md:relative md:p-0">
+
+                    <div class="md:hidden justify-center items-center p-1 mx-1 m-nav-search">
+                        <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6618 11.861H13.4518L17.6918 16.121C18.1018 16.531 18.1018 17.201 17.6918 17.611C17.2818 18.021 16.6118 18.021 16.2018 17.611L11.9518 13.361V12.571L11.6818 12.291C10.2818 13.491 8.3718 14.111 6.3418 13.771C3.5618 13.301 1.3418 10.981 1.0018 8.18098C0.481797 3.95098 4.0418 0.390977 8.2718 0.910977C11.0718 1.25098 13.3918 3.47098 13.8618 6.25098C14.2018 8.28098 13.5818 10.191 12.3818 11.591L12.6618 11.861ZM2.95178 7.36098C2.95178 9.85098 4.96178 11.861 7.45178 11.861C9.94178 11.861 11.9518 9.85098 11.9518 7.36098C11.9518 4.87098 9.94178 2.86098 7.45178 2.86098C4.96178 2.86098 2.95178 4.87098 2.95178 7.36098Z" fill="#606F7B"/>
+                        </svg>
+                    </div>
+
+                    <div class="flex-no-shrink md:mr-2">
+                        <cart-nav></cart-nav>
+                    </div>
+
+                    <div class="md:hidden justify-center items-center p-2 mx-1 m-nav-hamburger">
+                        <svg width="16" height="13" viewBox="0 0 16 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <rect width="15.7375" height="2.06096" rx="1.03048" transform="matrix(-1 0 0 1 15.7383 0.161438)" fill="#3D4852"/>
+                            <rect width="15.7375" height="2.06096" rx="1.03048" transform="matrix(-1 0 0 1 15.7383 10.2835)" fill="#3D4852"/>
+                            <rect width="15.7375" height="2.06096" rx="1.03048" transform="matrix(-1 0 0 1 15.7383 5.22247)" fill="#3D4852"/>
+                        </svg>
+                    </div>
+
+                    <div class="md:hidden justify-center items-center p-2 mx-1 m-nav-close">
+                        <svg width="16" height="13" viewBox="0 0 16 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <rect x="3.17578" y="0.0986328" width="15.7375" height="2.06096" rx="1.03048" transform="rotate(45 3.17578 0.0986328)" fill="#3D4852"/>
+                            <rect x="1.7168" y="11.2267" width="15.7375" height="2.06096" rx="1.03048" transform="rotate(-45 1.7168 11.2267)" fill="#3D4852"/>
+                        </svg>
+                    </div>
+
+                </div>
+
+                
+                                    <div class="guest-menu ml-6 flex absolute flex-row-reverse justify-between items-center p-5 w-full pin-b sm:relative sm:w-auto">
+
+                        
+                                                    <button class="py-3 px-8 mx-0 text-base rounded-lg text-lf-teal-dark-3 bg-lf-teal-10 trans hover:text-white hover:bg-lf-teal font-lf-semi-bold flex-no-shrink"
+                                    onclick="window.Bus.$emit('AUTH_SIGNUP', {source: 'Menu', ab_menu_cta: 'variant-one'})">Get Started
+                            </button>
+                        
+                        
+                        <button class="px-8 -mx-2 text-base text-lf-teal-dark-3 trans hover:text-lf-teal-dark-0 font-lf-semi-bold flex-no-shrink sm:hidden xl:inline-block"
+                                onclick="window.Bus.$emit('AUTH_LOGIN', {source: 'Menu'})">Login
+                        </button>
+                    </div>
+                
+            </div>
+
+        </div>
+
+    </header>
+</div>
+
+    
+    
+    
+    
+    <div class="py-12 sm:py-24 bg-lf-bg px-5 md:px-0">
+    <div class="container md:flex mx-auto">
+        <div>
+            <h1 class="text-4-2xl sm:text-6xl  mb-4 font-normal font-lf-bold text-black max-w-lg mx-auto text-center md:text-left">Lightweight, scalable animations <span class="opacity-75 text-grey-dark">for your website and apps</span></h1>
+            <p class="text-base sm:text-xl mb-8 text-grey-dark max-w-lg mx-auto md:ml-0 text-center md:text-left leading-normal w-2/3">LottieFiles provides all the tools that you need to create, edit, test and display Lottie animations.</p>
+            <div class="flex md:block justify-center mb-10">
+                <a href="/getting-started" class="getting_started_button">
+    <button class="bg-lf-teal text-base trans hover:bg-lf-teal-dark-3 hover:shadow-lg-teal sm:text-lg text-white rounded-md py-4 px-8 sm:py-5 sm:px-16">
+        
+                    <span class="font-lf-bold">Sign up</span> for free
+                <svg width="15" height="14" viewBox="0 0 15 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path
+                d="M1.78244 7.87228H11.6096L7.75314 11.7287C7.44494 12.0369 7.44494 12.5427 7.75314 12.8509C8.06134 13.1591 8.5592 13.1591 8.8674 12.8509L14.0752 7.64311C14.3834 7.33491 14.3834 6.83705 14.0752 6.52885L8.8753 1.31317C8.72766 1.16519 8.52721 1.08203 8.31817 1.08203C8.10914 1.08203 7.90869 1.16519 7.76104 1.31317C7.45285 1.62137 7.45285 2.11923 7.76104 2.42743L11.6096 6.29177H1.78244C1.3478 6.29177 0.992188 6.64739 0.992188 7.08203C0.992188 7.51667 1.3478 7.87228 1.78244 7.87228Z"
+                fill="white"/>
+            <path fill-rule="evenodd" clip-rule="evenodd"
+                  d="M7.58421 1.13645C7.77874 0.941555 8.0428 0.832031 8.31817 0.832031C8.59361 0.832031 8.85773 0.941609 9.05228 1.13659L14.252 6.35207C14.6577 6.75791 14.6577 7.41409 14.252 7.81988L9.04418 13.0277C8.63835 13.4335 7.9822 13.4335 7.57636 13.0277C7.17054 12.6218 7.17054 11.9578 7.57636 11.5519L11.006 8.12228H1.78244C1.20973 8.12228 0.742188 7.65474 0.742188 7.08203C0.742188 6.50931 1.20973 6.04177 1.78244 6.04177H11.0078L7.58427 2.6042C7.17856 2.19838 7.17847 1.54225 7.58421 1.13645ZM8.31817 1.33203C8.17554 1.33203 8.03876 1.38878 7.93802 1.48975C7.72745 1.70031 7.72725 2.04008 7.93782 2.25065L12.2114 6.54177H1.78244C1.48587 6.54177 1.24219 6.78546 1.24219 7.08203C1.24219 7.37859 1.48587 7.62228 1.78244 7.62228H12.2131L7.92992 11.9055C7.71935 12.1161 7.71935 12.4635 7.92992 12.6741C8.14049 12.8847 8.48006 12.8847 8.69062 12.6741L13.8984 7.46633C14.109 7.25576 14.109 6.91619 13.8984 6.70562L8.69833 1.48975C8.59759 1.38882 8.46078 1.33203 8.31817 1.33203Z"
+                  fill="white"/>
+        </svg>
+    </button>
+</a>
+            </div>
+        </div>
+        <div class="lf-home-hero-illus-lottie mx-auto">
+            <lottie-player
+                autoplay
+                loop
+                src="https://static7.lottiefiles.com/lotties/lf30_cskmaqjx.json"
+                style="width: 100%; height: 100%;">
+            </lottie-player>
+        </div>
+
+
+    </div>
+</div>
+
+    <div class="bg-lf-bg lf-padding">
+    <div class="container mx-auto text-center overflow-hidden">
+
+                    <p class="text-grey-darker mb-5 block mx-auto leading-normal md:inline-block w-2/3 md:w-full">Used by designers and developers from <span class="font-lf-bold">70,000+ companies</span> worldwide</p>
+        
+        <div class="flex flex-wrap items-center justify-center relative">
+                            <div>
+                    <img class="h-5 sm:h-8 mx-3 my-1 sm:mx-3 sm:my-1 md:mx-4 md:my-3 opacity-25" title="Uber" src="https://static4.lottiefiles.com/images/v3/companies-list/uber.svg" alt="">
+                </div>
+                            <div>
+                    <img class="h-5 sm:h-8 mx-3 my-1 sm:mx-3 sm:my-1 md:mx-4 md:my-3 opacity-25" title="Instacart" src="https://static9.lottiefiles.com/images/v3/companies-list/instacart.svg" alt="">
+                </div>
+                            <div>
+                    <img class="h-5 sm:h-8 mx-3 my-1 sm:mx-3 sm:my-1 md:mx-4 md:my-3 opacity-25" title="Tiktok" src="https://static8.lottiefiles.com/images/v3/companies-list/tiktok.svg" alt="">
+                </div>
+                            <div>
+                    <img class="h-5 sm:h-8 mx-3 my-1 sm:mx-3 sm:my-1 md:mx-4 md:my-3 opacity-25" title="Netflix" src="https://static7.lottiefiles.com/images/v3/companies-list/netflix.svg" alt="">
+                </div>
+                            <div>
+                    <img class="h-5 sm:h-8 mx-3 my-1 sm:mx-3 sm:my-1 md:mx-4 md:my-3 opacity-25" title="Spotify" src="https://static10.lottiefiles.com/images/v3/companies-list/spotify.svg" alt="">
+                </div>
+                            <div>
+                    <img class="h-5 sm:h-8 mx-3 my-1 sm:mx-3 sm:my-1 md:mx-4 md:my-3 opacity-25" title="BBC" src="https://static6.lottiefiles.com/images/v3/companies-list/bbc.svg" alt="">
+                </div>
+                            <div>
+                    <img class="h-5 sm:h-8 mx-3 my-1 sm:mx-3 sm:my-1 md:mx-4 md:my-3 opacity-25" title="Airbnb" src="https://static3.lottiefiles.com/images/v3/companies-list/airbnb.svg" alt="">
+                </div>
+                            <div>
+                    <img class="h-5 sm:h-8 mx-3 my-1 sm:mx-3 sm:my-1 md:mx-4 md:my-3 opacity-25" title="Google" src="https://static5.lottiefiles.com/images/v3/companies-list/google.svg" alt="">
+                </div>
+                            <div>
+                    <img class="h-5 sm:h-8 mx-3 my-1 sm:mx-3 sm:my-1 md:mx-4 md:my-3 opacity-25" title="Tonal" src="https://static5.lottiefiles.com/images/v3/companies-list/tonal.svg" alt="">
+                </div>
+                            <div>
+                    <img class="h-5 sm:h-8 mx-3 my-1 sm:mx-3 sm:my-1 md:mx-4 md:my-3 opacity-25" title="Amazon" src="https://static4.lottiefiles.com/images/v3/companies-list/amazon.svg" alt="">
+                </div>
+                            <div>
+                    <img class="h-5 sm:h-8 mx-3 my-1 sm:mx-3 sm:my-1 md:mx-4 md:my-3 opacity-25" title="Duolingo" src="https://static9.lottiefiles.com/images/v3/companies-list/duolingo.svg" alt="">
+                </div>
+                            <div>
+                    <img class="h-5 sm:h-8 mx-3 my-1 sm:mx-3 sm:my-1 md:mx-4 md:my-3 opacity-25" title="Swiggy" src="https://static3.lottiefiles.com/images/v3/companies-list/swiggy.svg" alt="">
+                </div>
+                            <div>
+                    <img class="h-5 sm:h-8 mx-3 my-1 sm:mx-3 sm:my-1 md:mx-4 md:my-3 opacity-25" title="Microsoft" src="https://static7.lottiefiles.com/images/v3/companies-list/microsoft.svg" alt="">
+                </div>
+                            <div>
+                    <img class="h-5 sm:h-8 mx-3 my-1 sm:mx-3 sm:my-1 md:mx-4 md:my-3 opacity-25" title="Disney" src="https://static8.lottiefiles.com/images/v3/companies-list/disney.svg" alt="">
+                </div>
+                            <div>
+                    <img class="h-5 sm:h-8 mx-3 my-1 sm:mx-3 sm:my-1 md:mx-4 md:my-3 opacity-25" title="Cred" src="https://static3.lottiefiles.com/images/v3/companies-list/cred.svg" alt="">
+                </div>
+                            <div>
+                    <img class="h-5 sm:h-8 mx-3 my-1 sm:mx-3 sm:my-1 md:mx-4 md:my-3 opacity-25" title="Grab" src="https://static6.lottiefiles.com/images/v3/companies-list/grab.svg" alt="">
+                </div>
+                            <div>
+                    <img class="h-5 sm:h-8 mx-3 my-1 sm:mx-3 sm:my-1 md:mx-4 md:my-3 opacity-25" title="Nike" src="https://static2.lottiefiles.com/images/v3/companies-list/nike.svg" alt="">
+                </div>
+                    </div>
+    </div>
+</div>
+
+    <div class="py-12 sm:py-32 bg-lf-bg px-5 md:px-0">
+    <div class="container mx-auto">
+        <div class="flex flex-col sm:flex-row items-center justify-end relative">
+
+            <div class="w-full flex flex-col lg:flex-row-reverse lg:items-center">
+                <div class="sm:px-12">
+                    <h2 class="text-4xl sm:text-5xl font-normal font-lf-bold text-grey-darkest mb-6">The new industry standard</h2>
+                    <p class="text-lg sm:text-xl text-grey-dark leading-normal mb-6">Lottie is an open source animation file
+                        format that’s tiny, high quality, interactive, and can be manipulated at runtime. The
+                        top 500 apps on the App store now use Lottie to engage users and enhance conversions.</p>
+
+                    <div class="trans flex items-center text-black-lighter hover-fill-lf-teal hover:text-lf-teal mb-10">
+                        <a href="https://lottiefiles.com/lottie" class="text-lg font-lf-semi-bold mr-2 text-inherit">Learn more about Lottie</a>
+                        <svg class="mt-1" width="13" height="12" viewBox="0 0 13 12" fill="none"
+                             xmlns="http://www.w3.org/2000/svg">
+                            <path
+                                d="M1.63511 6.61411H9.99106L6.77736 9.82781C6.52053 10.0846 6.52053 10.5061 6.77736 10.7629C7.03419 11.0198 7.44907 11.0198 7.70591 10.7629L12.0457 6.42313C12.3026 6.1663 12.3026 5.75141 12.0457 5.49458L7.71249 1.14818C7.58946 1.02487 7.42242 0.955566 7.24822 0.955566C7.07402 0.955566 6.90698 1.02487 6.78394 1.14818C6.52711 1.40501 6.52711 1.8199 6.78394 2.07673L9.99106 5.29702H1.63511C1.27291 5.29702 0.976562 5.59336 0.976562 5.95556C0.976562 6.31776 1.27291 6.61411 1.63511 6.61411Z"
+                                fill="#2B343B"/>
+                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                  d="M6.60711 0.971461C6.77703 0.80123 7.00769 0.705566 7.24822 0.705566C7.48882 0.705566 7.71953 0.801284 7.88947 0.971604L12.2225 5.3178C12.5768 5.67228 12.5769 6.24548 12.2225 6.59991L7.88268 10.9397C7.52822 11.2942 6.95505 11.2942 6.60058 10.9397C6.24612 10.5853 6.24612 10.0055 6.60058 9.65103L9.38751 6.86411H1.63511C1.13484 6.86411 0.726562 6.45583 0.726562 5.95556C0.726562 5.45529 1.13484 5.04702 1.63511 5.04702H9.38925L6.60717 2.25351C6.2528 1.89906 6.25273 1.3259 6.60711 0.971461ZM7.24822 1.20557C7.14042 1.20557 7.03706 1.24845 6.96092 1.32476C6.80172 1.48396 6.80152 1.74075 6.96072 1.89995L10.5929 5.54702H1.63511C1.41098 5.54702 1.22656 5.73143 1.22656 5.95556C1.22656 6.17969 1.41098 6.36411 1.63511 6.36411H10.5946L6.95413 10.0046C6.79493 10.1638 6.79493 10.427 6.95413 10.5862C7.11334 10.7454 7.36993 10.7454 7.52913 10.5862L11.8689 6.24635C12.0281 6.08715 12.0281 5.83056 11.8689 5.67136L7.53552 1.32476C7.45939 1.24849 7.35598 1.20557 7.24822 1.20557Z"
+                                  fill="#2B343B"/>
+                        </svg>
+                    </div>
+
+                    <div class="hidden lg:flex">
+                        <div class="mr-10">
+                            <h1 class="text-lf-teal sm:block text-4-2xl lg:text-7xl" >600<span
+                                    class="text-3xl lg:text-6xl">%</span></h1>
+                            <p class="text-lg sm:text-lg text-grey-dark leading-lf">smaller when compared to GIF</p>
+                        </div>
+                        <div class="">
+                            <h1 class="text-lf-teal sm:block text-4-2xl lg:text-7xl" >10<span
+                                    class="text-3xl lg:text-6xl">X</span></h1>
+                            <p class="text-lg sm:text-lg text-grey-dark leading-lf">faster to ship</p>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="lf-home-comparisons mb-10 lg:mb-0 relative flex-no-shrink pin-l pin-t flex items-center justify-center lg:justify-start h-full overflow-hidden">
+
+                    <div class="flex items-end">
+                        <div class="mx-1 sm:mx-2">
+                            <div class="others w-full rounded-lg sm:rounded-2xl shadow-sm mb-3  flex items-center">
+                                <img class="png-sequence-2"
+                                     src="https://static3.lottiefiles.com/images/v3/industry-standard/png_sequence/png-seq-container.png"
+                                     alt="">
+                            </div>
+                            <div class="flex justify-between items-center px-2">
+                                <p class="text-xs sm:text-base text-grey-dark">PNG</p>
+                                <p class="text-xs sm:text-sm text-grey">50 Files</p>
+                            </div>
+                        </div>
+
+                        <div class="mx-1 sm:mx-2">
+                            <div class="others w-full rounded-lg sm:rounded-2xl shadow-sm mb-3 flex items-center">
+                                 <img src="https://static4.lottiefiles.com/images/v3/industry-standard/animation.gif"
+                                      loading="lazy" alt="">
+                            </div>
+                            <div class="flex justify-between items-center px-1 sm:px-2">
+                                <p class="text-xs sm:text-base text-grey-dark">GIF</p>
+                                <p class="text-xs sm:text-sm text-grey">375 KB</p>
+                            </div>
+                        </div>
+
+                        <div class="mx-1 sm:mx-2">
+                            <div class="lottie w-full rounded-lg sm:rounded-2xl shadow-md border sm:border-2 border-lf-teal mb-3">
+                                <lottie-player
+                                    src="https://static5.lottiefiles.com/lotties/lf30_zygzqp95.json"
+                                    background="transparent" speed="1" loop autoplay
+                                    style="width: 100%; height: 100%"></lottie-player>
+                            </div>
+                            <div class="flex justify-between items-center px-2">
+                                <p class="text-xs sm:text-lg text-lf-teal">Lottie</p>
+                                <p class="text-xs sm:text-sm text-grey">56 KB</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="flex justify-center lg:hidden">
+                    <div class="px-10">
+                        <h1 class="text-lf-teal sm:block text-4-2xl lg:text-7xl" >600<span
+                                class="text-3xl lg:text-6xl">%</span></h1>
+                        <p class="text-lg sm:text-lg text-grey-dark leading-lf">smaller when compared to GIF</p>
+                    </div>
+                    <div class="px-10">
+                        <h1 class="text-lf-teal sm:block text-4-2xl lg:text-7xl" >10<span
+                                class="text-3xl lg:text-6xl">X</span></h1>
+                        <p class="text-lg sm:text-lg text-grey-dark leading-lf">faster to ship</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="py-12 md:py-0 bg-lf-bg relative">
+        <div class="container mx-auto">
+            <div class="">
+
+                <div class="flex flex-col items-center lg:text-center px-5 lg:px-0">
+                    <h2 class="text-4-2xl lg:text-5-2xl font-normal font-lf-bold text-grey-darkest mb-4">Legendary creators and their creations</h2>
+                    <p class="text-xl text-grey-dark leading-normal max-w-md mb-12">Welcome to the largest community of designers and developers using Lottie. An extensive, curated library of free assets awaits you.</p>
+                </div>
+
+                <div class="overflow-hidden overflow-x-scroll scrollbar-hidden flex lg:flex-wrap">
+
+                    <div class="hidden lg:flex flex-no-shrink relative lg:w-full pl-3 lg:pl-0">
+                        <div class="w-full flex flex-wrap lg:absolute">
+                            <div class="w-1/5 p-2 hidden lg:block"></div>
+                            <div class="lg:w-2/5 p-2">
+
+                                <a href="/66458-swinging" onclick="openEntry(event,{&quot;id&quot;:66458,&quot;data_file&quot;:&quot;\/packages\/lf20_97iupqly.json&quot;,&quot;dotlottie_file&quot;:null,&quot;bg_color&quot;:&quot;#FFFFFF&quot;,&quot;speed&quot;:null,&quot;slug&quot;:&quot;66458-swinging&quot;})" title="Swinging">
+                                    <div class="bg-white rounded-lg shadow-sm relative flex flex-col items-center pick-of-the-day-container">
+                                        <div class="absolute pin-l pin-t z-20 uppercase p-4">
+                                            <div class="bg-grey text-xs font-lf-bold text-white rounded-sm px-2 py-1">pick
+                                                of the day
+                                            </div>
+                                        </div>
+                                        <div class="flex items-center justify-center lg:mt-10">
+                                                                                            <lottie-player loop autoplay
+                                                               class="pick-of-the-day"
+                                                               src="https://assets10.lottiefiles.com/packages/lf20_97iupqly.json"></lottie-player>
+                                                                                    </div>
+
+                                        <div class="w-full absolute pin-b pin-l p-4 hidden lg:flex items-center justify-between">
+                                            <div class="flex items-center">
+                                                <img class="rounded-full mr-3" style="width: 26px; height: 26px"
+                                                     src="https://assets2.lottiefiles.com/avatars/300_60b5c56eaebbd.jpg" 
+                                                     alt="Rahan Bony">
+                                                <p class="text-base text-grey-darker">Rahan Bony</p>
+                                            </div>
+                                                                                            <p class="text-sm text-grey" style="margin-top: 2px;">130.09kB</p>
+                                                                                    </div>
+                                    </div>
+                                </a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="w-full flex lg:flex-wrap flex-no-shrink px-2 lg:px-0">
+
+                        
+                        <div class="lg:hidden lg:w-1/5 p-2 flex-no-shrink relative">
+
+                            <div class="absolute pin-l pin-t z-20 uppercase p-4">
+                                <div class="bg-grey text-xs font-lf-bold text-white rounded-sm px-2 py-1">pick
+                                    of the day
+                                </div>
+                            </div>
+
+                            <a href="/66458-swinging" onclick="openEntry(event,{&quot;id&quot;:66458,&quot;title&quot;:&quot;Swinging&quot;,&quot;slug&quot;:&quot;66458-swinging&quot;,&quot;data_file&quot;:&quot;\/packages\/lf20_97iupqly.json&quot;,&quot;dotlottie_file&quot;:null,&quot;bg_color&quot;:&quot;#FFFFFF&quot;,&quot;user_id&quot;:954701,&quot;file&quot;:&quot;https:\/\/assets5.lottiefiles.com\/packages\/lf20_97iupqly.json&quot;,&quot;preview_url&quot;:&quot;https:\/\/assets.lottiefiles.com\/previews\/default.jpg&quot;,&quot;preview_video_url&quot;:null,&quot;baseprice&quot;:null,&quot;is_liked&quot;:false,&quot;likes_count&quot;:12,&quot;comments_count&quot;:1,&quot;entry_license&quot;:{&quot;id&quot;:41282,&quot;user_segment_id&quot;:954701,&quot;entry_id&quot;:66458,&quot;entry_license_type_id&quot;:1,&quot;created_at&quot;:&quot;2021-06-25 06:13:40&quot;,&quot;updated_at&quot;:&quot;2021-06-25 06:13:40&quot;,&quot;entry_license_type&quot;:{&quot;id&quot;:1,&quot;cc_user_options_adaptations&quot;:&quot;yes&quot;,&quot;cc_user_options_commercial&quot;:&quot;yes&quot;,&quot;cc_type&quot;:&quot;cc_by&quot;,&quot;cc_type_description&quot;:&quot;This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use.&quot;,&quot;image_path&quot;:&quot;entry_licenses\/0a5Bl4WccfJ1jxj3ShrOQsJ2fyKHmaV6NTNhrgna.png&quot;,&quot;created_at&quot;:&quot;2020-06-11 09:43:14&quot;,&quot;updated_at&quot;:&quot;2020-06-11 09:43:14&quot;,&quot;image_url&quot;:&quot;https:\/\/static7.lottiefiles.com\/entry_licenses\/0a5Bl4WccfJ1jxj3ShrOQsJ2fyKHmaV6NTNhrgna.png&quot;}},&quot;user&quot;:{&quot;id&quot;:954701,&quot;avatar&quot;:&quot;60b5c56eaebbd.jpg&quot;,&quot;name&quot;:&quot;Rahan Bony&quot;,&quot;link&quot;:&quot;\/user\/954701&quot;,&quot;avatarlink&quot;:&quot;https:\/\/assets8.lottiefiles.com\/avatars\/300_60b5c56eaebbd.jpg&quot;,&quot;profile_link&quot;:&quot;https:\/\/lottiefiles.com\/user\/954701&quot;,&quot;discourse_avatar_url&quot;:&quot;https:\/\/assets6.lottiefiles.com\/avatars\/300_60b5c56eaebbd.jpg&quot;,&quot;profile_avatar_url&quot;:&quot;https:\/\/assets10.lottiefiles.com\/avatars\/300_60b5c56eaebbd.jpg&quot;},&quot;meta&quot;:{&quot;id&quot;:54751,&quot;model&quot;:&quot;App\\Entry&quot;,&quot;resource_id&quot;:&quot;66458&quot;,&quot;lottie_url&quot;:&quot;https:\/\/assets1.lottiefiles.comhttps:\/\/assets5.lottiefiles.com\/packages\/lf20_97iupqly.json&quot;,&quot;hash&quot;:&quot;tgbugr&quot;,&quot;type&quot;:&quot;json&quot;,&quot;file_size&quot;:&quot;133209&quot;,&quot;number_of_layers&quot;:10,&quot;resolution&quot;:null,&quot;frame_rate&quot;:0,&quot;total_frames&quot;:30,&quot;generator&quot;:&quot;LottieFiles AE &quot;,&quot;bodymovin_version&quot;:&quot;4.8.0&quot;,&quot;height&quot;:1080,&quot;width&quot;:1080,&quot;in_point&quot;:60,&quot;out_point&quot;:120,&quot;images&quot;:null,&quot;fonts&quot;:null,&quot;text&quot;:null,&quot;bg_color&quot;:&quot;#FFFFFF&quot;,&quot;colors&quot;:&quot;[\&quot;167bd2\&quot;,\&quot;ffffff\&quot;,\&quot;000000\&quot;,\&quot;06579b\&quot;,\&quot;7e5001\&quot;,\&quot;f89f04\&quot;]&quot;,&quot;speed&quot;:1,&quot;last_modified&quot;:&quot;2021-06-25 06:14:18&quot;,&quot;status&quot;:&quot;requested&quot;,&quot;created_at&quot;:&quot;2021-06-25 06:13:43&quot;,&quot;updated_at&quot;:&quot;2021-06-25 06:14:18&quot;},&quot;likes_counter&quot;:{&quot;id&quot;:30828,&quot;likeable_type&quot;:&quot;App\\Entry&quot;,&quot;likeable_id&quot;:66458,&quot;type_id&quot;:&quot;LIKE&quot;,&quot;count&quot;:12,&quot;created_at&quot;:&quot;2021-06-25 07:11:47&quot;,&quot;updated_at&quot;:&quot;2021-06-27 09:03:21&quot;},&quot;comments&quot;:[{&quot;id&quot;:11535,&quot;commenter_id&quot;:535691,&quot;commentable_type&quot;:&quot;App\\Entry&quot;,&quot;commentable_id&quot;:66458,&quot;comment&quot;:&quot;Can you please tell me which script do you used in this animation?&quot;,&quot;child_id&quot;:null,&quot;project_animation_version_id&quot;:null,&quot;frame_position&quot;:null,&quot;frame&quot;:null,&quot;status&quot;:null,&quot;created_at&quot;:&quot;2021-06-26 17:49:15&quot;,&quot;updated_at&quot;:&quot;2021-06-26 17:49:15&quot;}]})" title="Swinging">
+                                <div class="p-2 bg-white rounded-lg shadow-sm z-10" style="background-color: #FFFFFF">
+                                    <div class="relative">
+                                                                                    <lottie-player loop autoplay
+                                                        style="width: 200px;height: 220px;"
+                                                        src="https://assets4.lottiefiles.com/packages/lf20_97iupqly.json"></lottie-player>
+                                                                                <div class="w-full absolute pin-b pin-l p-2 flex">
+                                            <img class="rounded-full" style="width: 26px; height: 26px" 
+                                                src="https://assets8.lottiefiles.com/avatars/300_60b5c56eaebbd.jpg" 
+                                                alt="Rahan Bony">
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+
+                                                    <div class="lg:w-1/5 p-2 flex-no-shrink " data-index-id="0">
+
+                                
+                                <a href="/66417-rabbit" onclick="openEntry(event,{&quot;id&quot;:66417,&quot;data_file&quot;:&quot;\/packages\/lf20_rnfyiqjn.json&quot;,&quot;dotlottie_file&quot;:null,&quot;bg_color&quot;:&quot;#FFFFFF&quot;,&quot;speed&quot;:null,&quot;slug&quot;:&quot;66417-rabbit&quot;})" title="Rabbit">
+                                    <div class="p-2 bg-white rounded-lg shadow-sm z-10" style="background-color: #FFFFFF">
+                                        <div class="relative">
+                                                                                                                                                <lottie-player loop autoplay
+                                                                style="width: 200px;height: 220px;"
+                                                                src="https://assets8.lottiefiles.com/packages/lf20_rnfyiqjn.json"></lottie-player>
+                                                                                                <div class="w-full absolute pin-b pin-l p-2 flex">
+                                                    <img class="rounded-full" style="width: 26px; height: 26px" 
+                                                        src="https://assets9.lottiefiles.com/avatars/300_60abcb0579641.jpg" 
+                                                        alt="Kevin Correa">
+                                                </div>
+                                                                                                                                    </div>
+                                    </div>
+                                </a>
+                            </div>
+                                                    <div class="lg:w-1/5 p-2 flex-no-shrink hidden lg:block" data-index-id="1">
+
+                                
+                                <a href="/66392-infinity-loading" onclick="openEntry(event,{&quot;id&quot;:66392,&quot;data_file&quot;:&quot;\/packages\/lf20_koye4yua.json&quot;,&quot;dotlottie_file&quot;:null,&quot;bg_color&quot;:&quot;#FFFFFF&quot;,&quot;speed&quot;:null,&quot;slug&quot;:&quot;66392-infinity-loading&quot;})" title="Infinity Loading">
+                                    <div class="p-2 bg-white rounded-lg shadow-sm z-10" style="background-color: #FFFFFF">
+                                        <div class="relative">
+                                                                                    </div>
+                                    </div>
+                                </a>
+                            </div>
+                                                    <div class="lg:w-1/5 p-2 flex-no-shrink hidden lg:block" data-index-id="1">
+
+                                
+                                <a href="/66392-infinity-loading" onclick="openEntry(event,{&quot;id&quot;:66392,&quot;data_file&quot;:&quot;\/packages\/lf20_koye4yua.json&quot;,&quot;dotlottie_file&quot;:null,&quot;bg_color&quot;:&quot;#FFFFFF&quot;,&quot;speed&quot;:null,&quot;slug&quot;:&quot;66392-infinity-loading&quot;})" title="Infinity Loading">
+                                    <div class="p-2 bg-white rounded-lg shadow-sm z-10" style="background-color: #FFFFFF">
+                                        <div class="relative">
+                                                                                    </div>
+                                    </div>
+                                </a>
+                            </div>
+                                                    <div class="lg:w-1/5 p-2 flex-no-shrink " data-index-id="1">
+
+                                
+                                <a href="/66392-infinity-loading" onclick="openEntry(event,{&quot;id&quot;:66392,&quot;data_file&quot;:&quot;\/packages\/lf20_koye4yua.json&quot;,&quot;dotlottie_file&quot;:null,&quot;bg_color&quot;:&quot;#FFFFFF&quot;,&quot;speed&quot;:null,&quot;slug&quot;:&quot;66392-infinity-loading&quot;})" title="Infinity Loading">
+                                    <div class="p-2 bg-white rounded-lg shadow-sm z-10" style="background-color: #FFFFFF">
+                                        <div class="relative">
+                                                                                                                                                <lottie-player loop autoplay
+                                                                style="width: 200px;height: 220px;"
+                                                                src="https://assets9.lottiefiles.com/packages/lf20_koye4yua.json"></lottie-player>
+                                                                                                <div class="w-full absolute pin-b pin-l p-2 flex">
+                                                    <img class="rounded-full" style="width: 26px; height: 26px" 
+                                                        src="https://assets6.lottiefiles.com/avatars/300_5fc629a30028f.jpg" 
+                                                        alt="Mustafizur Rahman">
+                                                </div>
+                                                                                                                                    </div>
+                                    </div>
+                                </a>
+                            </div>
+                                                    <div class="lg:w-1/5 p-2 flex-no-shrink " data-index-id="2">
+
+                                
+                                <a href="/65837-clouds-in-the-sky" onclick="openEntry(event,{&quot;id&quot;:65837,&quot;data_file&quot;:&quot;\/packages\/lf20_i8dfptvj.json&quot;,&quot;dotlottie_file&quot;:null,&quot;bg_color&quot;:&quot;#FFFFFF&quot;,&quot;speed&quot;:null,&quot;slug&quot;:&quot;65837-clouds-in-the-sky&quot;})" title="Clouds in the Sky">
+                                    <div class="p-2 bg-white rounded-lg shadow-sm z-10" style="background-color: #FFFFFF">
+                                        <div class="relative">
+                                                                                                                                                <lottie-player loop autoplay
+                                                                style="width: 200px;height: 220px;"
+                                                                src="https://assets3.lottiefiles.com/packages/lf20_i8dfptvj.json"></lottie-player>
+                                                                                                <div class="w-full absolute pin-b pin-l p-2 flex">
+                                                    <img class="rounded-full" style="width: 26px; height: 26px" 
+                                                        src="https://assets7.lottiefiles.com/avatars/300_421302-1104952423.jpg" 
+                                                        alt="Catwork">
+                                                </div>
+                                                                                                                                    </div>
+                                    </div>
+                                </a>
+                            </div>
+                                                    <div class="lg:w-1/5 p-2 flex-no-shrink " data-index-id="3">
+
+                                
+                                <a href="/66390-recovery-password" onclick="openEntry(event,{&quot;id&quot;:66390,&quot;data_file&quot;:&quot;\/packages\/lf20_bz5y4quo.json&quot;,&quot;dotlottie_file&quot;:null,&quot;bg_color&quot;:&quot;#FFFFFF&quot;,&quot;speed&quot;:null,&quot;slug&quot;:&quot;66390-recovery-password&quot;})" title="recovery password">
+                                    <div class="p-2 bg-white rounded-lg shadow-sm z-10" style="background-color: #FFFFFF">
+                                        <div class="relative">
+                                                                                                                                                <lottie-player loop autoplay
+                                                                style="width: 200px;height: 220px;"
+                                                                src="https://assets7.lottiefiles.com/packages/lf20_bz5y4quo.json"></lottie-player>
+                                                                                                <div class="w-full absolute pin-b pin-l p-2 flex">
+                                                    <img class="rounded-full" style="width: 26px; height: 26px" 
+                                                        src="https://assets5.lottiefiles.com/avatars/300_60be49e58ca53.jpg" 
+                                                        alt="Caio Sanchez">
+                                                </div>
+                                                                                                                                    </div>
+                                    </div>
+                                </a>
+                            </div>
+                                                    <div class="lg:w-1/5 p-2 flex-no-shrink hidden lg:block" data-index-id="4">
+
+                                
+                                <a href="/66343-toggle-on" onclick="openEntry(event,{&quot;id&quot;:66343,&quot;data_file&quot;:&quot;\/packages\/lf20_1j5axnxm.json&quot;,&quot;dotlottie_file&quot;:null,&quot;bg_color&quot;:&quot;#FFFFFF&quot;,&quot;speed&quot;:null,&quot;slug&quot;:&quot;66343-toggle-on&quot;})" title="Toggle ON">
+                                    <div class="p-2 bg-white rounded-lg shadow-sm z-10" style="background-color: #FFFFFF">
+                                        <div class="relative">
+                                                                                    </div>
+                                    </div>
+                                </a>
+                            </div>
+                                                    <div class="lg:w-1/5 p-2 flex-no-shrink hidden lg:block" data-index-id="4">
+
+                                
+                                <a href="/66343-toggle-on" onclick="openEntry(event,{&quot;id&quot;:66343,&quot;data_file&quot;:&quot;\/packages\/lf20_1j5axnxm.json&quot;,&quot;dotlottie_file&quot;:null,&quot;bg_color&quot;:&quot;#FFFFFF&quot;,&quot;speed&quot;:null,&quot;slug&quot;:&quot;66343-toggle-on&quot;})" title="Toggle ON">
+                                    <div class="p-2 bg-white rounded-lg shadow-sm z-10" style="background-color: #FFFFFF">
+                                        <div class="relative">
+                                                                                    </div>
+                                    </div>
+                                </a>
+                            </div>
+                                                    <div class="lg:w-1/5 p-2 flex-no-shrink " data-index-id="4">
+
+                                
+                                <a href="/66343-toggle-on" onclick="openEntry(event,{&quot;id&quot;:66343,&quot;data_file&quot;:&quot;\/packages\/lf20_1j5axnxm.json&quot;,&quot;dotlottie_file&quot;:null,&quot;bg_color&quot;:&quot;#FFFFFF&quot;,&quot;speed&quot;:null,&quot;slug&quot;:&quot;66343-toggle-on&quot;})" title="Toggle ON">
+                                    <div class="p-2 bg-white rounded-lg shadow-sm z-10" style="background-color: #FFFFFF">
+                                        <div class="relative">
+                                                                                                                                                <lottie-player loop autoplay
+                                                                style="width: 200px;height: 220px;"
+                                                                src="https://assets2.lottiefiles.com/packages/lf20_1j5axnxm.json"></lottie-player>
+                                                                                                <div class="w-full absolute pin-b pin-l p-2 flex">
+                                                    <img class="rounded-full" style="width: 26px; height: 26px" 
+                                                        src="https://assets5.lottiefiles.com/avatars/300_6095247d4326c.jpg" 
+                                                        alt="Harshal Chaudhari">
+                                                </div>
+                                                                                                                                    </div>
+                                    </div>
+                                </a>
+                            </div>
+                                                    <div class="lg:w-1/5 p-2 flex-no-shrink " data-index-id="5">
+
+                                
+                                <a href="/66358-online-shopping" onclick="openEntry(event,{&quot;id&quot;:66358,&quot;data_file&quot;:&quot;\/private_files\/lf30_mn61zlcj.json&quot;,&quot;dotlottie_file&quot;:null,&quot;bg_color&quot;:&quot;none&quot;,&quot;speed&quot;:null,&quot;slug&quot;:&quot;66358-online-shopping&quot;})" title="Online shopping">
+                                    <div class="p-2 bg-white rounded-lg shadow-sm z-10" style="background-color: none">
+                                        <div class="relative">
+                                                                                                                                                <lottie-player loop autoplay
+                                                                style="width: 200px;height: 220px;"
+                                                                src="https://assets5.lottiefiles.com/private_files/lf30_mn61zlcj.json"></lottie-player>
+                                                                                                <div class="w-full absolute pin-b pin-l p-2 flex">
+                                                    <img class="rounded-full" style="width: 26px; height: 26px" 
+                                                        src="https://assets9.lottiefiles.com/avatars/300_370728-1210061580.jpg" 
+                                                        alt="Muhammad Tahir">
+                                                </div>
+                                                                                                                                    </div>
+                                    </div>
+                                </a>
+                            </div>
+                        
+                    </div>
+
+                </div>
+
+
+            </div>
+        </div>
+
+        <div class="w-full z-10 pin-b pin-l px-5 lg:px-0">
+
+            <div class="container mx-auto">
+                <div class="flex flex-col items-center pb-16 license-container">
+                    <p class="text-grey-darker max-w-md lg:text-center leading-normal mb-10">All free Lottie animations are under a Creative Commons License, so go ahead and use them without hesitation.</p>
+
+                    <a href="/featured">
+                        <button class="bg-lf-teal text-xl text-white h-16 rounded-md px-12 lg:px-10 trans hover:bg-lf-teal-dark-3 hover:shadow-lg-teal">
+                            <span class="font-lf-semi-bold">Discover Animations</span>
+                            <svg width="15" height="14" viewBox="0 0 15 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M1.78244 7.87228H11.6096L7.75314 11.7287C7.44494 12.0369 7.44494 12.5427 7.75314 12.8509C8.06134 13.1591 8.5592 13.1591 8.8674 12.8509L14.0752 7.64311C14.3834 7.33491 14.3834 6.83705 14.0752 6.52885L8.8753 1.31317C8.72766 1.16519 8.52721 1.08203 8.31817 1.08203C8.10914 1.08203 7.90869 1.16519 7.76104 1.31317C7.45285 1.62137 7.45285 2.11923 7.76104 2.42743L11.6096 6.29177H1.78244C1.3478 6.29177 0.992188 6.64739 0.992188 7.08203C0.992188 7.51667 1.3478 7.87228 1.78244 7.87228Z"
+                                    fill="white"/>
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                      d="M7.58421 1.13645C7.77874 0.941555 8.0428 0.832031 8.31817 0.832031C8.59361 0.832031 8.85773 0.941609 9.05228 1.13659L14.252 6.35207C14.6577 6.75791 14.6577 7.41409 14.252 7.81988L9.04418 13.0277C8.63835 13.4335 7.9822 13.4335 7.57636 13.0277C7.17054 12.6218 7.17054 11.9578 7.57636 11.5519L11.006 8.12228H1.78244C1.20973 8.12228 0.742188 7.65474 0.742188 7.08203C0.742188 6.50931 1.20973 6.04177 1.78244 6.04177H11.0078L7.58427 2.6042C7.17856 2.19838 7.17847 1.54225 7.58421 1.13645ZM8.31817 1.33203C8.17554 1.33203 8.03876 1.38878 7.93802 1.48975C7.72745 1.70031 7.72725 2.04008 7.93782 2.25065L12.2114 6.54177H1.78244C1.48587 6.54177 1.24219 6.78546 1.24219 7.08203C1.24219 7.37859 1.48587 7.62228 1.78244 7.62228H12.2131L7.92992 11.9055C7.71935 12.1161 7.71935 12.4635 7.92992 12.6741C8.14049 12.8847 8.48006 12.8847 8.69062 12.6741L13.8984 7.46633C14.109 7.25576 14.109 6.91619 13.8984 6.70562L8.69833 1.48975C8.59759 1.38882 8.46078 1.33203 8.31817 1.33203Z"
+                                      fill="white"/>
+                            </svg>
+                        </button>
+                    </a>
+
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div class="pt-4 md:pt-24 bg-lf-bg">
+    <div class="container mx-auto">
+        <div class="flex flex-col items-center text-center px-5 mb-10 md:px-0">
+            <h2 class="text-4-2xl lg:text-5-2xl font-normal font-lf-bold text-grey-darkest mb-4 leading-normal">Create, edit, and ship in a few clicks</h2>
+            <p class="text-lg sm:text-xl text-grey-dark leading-normal max-w-md">We have developed simple tools and integrations that require almost no learning curve and make shipping a Lottie fast and seamless.</p>
+        </div>
+
+        <div class="flex overflow-scroll scrollbar-hidden lf-home-features-slider">
+                            <div class="flex-no-shrink slide">
+                    <div class="slide-content bg-white rounded-2xl shadow-sm p-5 lg:p-10 flex flex-col items-center h-full justify-between">
+                        <div class="flex items-center" style="height: 150px;">
+                            <div class="mx-auto" style="width: 100px;">
+                                <lottie-player
+                                    src="https://static5.lottiefiles.com/lotties/lf30_rwdu4pgr.json"
+                                    speed="1" loop autoplay
+                                    style="width: 100%; height: 100%;"></lottie-player>
+                            </div>
+                        </div>
+
+                        <div>
+                            <h2 class="leading-normal text-center my-6 font-lf-bold font-normal text-2xl text-grey-darkest">Edit Lottie animations online without a line of code</h2>
+                            <p class="leading-normal text-center mb-8 text-grey-dark">With our drag &amp; drop online editor, you can customize any Lottie animation and download a ready-to-publish file.</p>
+                        </div>
+
+                        <a href="/editor">
+                            <button
+                                class="bg-grey-darkest text-lg text-white h-12 mb-6 rounded-md px-8 trans hover:shadow-sm-grey"><span
+                                    class="font-lf-semi-bold">Lottie Editor</span>
+                                <svg width="15" height="14" viewBox="0 0 15 14" fill="none"
+                                     xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M1.78244 7.87228H11.6096L7.75314 11.7287C7.44494 12.0369 7.44494 12.5427 7.75314 12.8509C8.06134 13.1591 8.5592 13.1591 8.8674 12.8509L14.0752 7.64311C14.3834 7.33491 14.3834 6.83705 14.0752 6.52885L8.8753 1.31317C8.72766 1.16519 8.52721 1.08203 8.31817 1.08203C8.10914 1.08203 7.90869 1.16519 7.76104 1.31317C7.45285 1.62137 7.45285 2.11923 7.76104 2.42743L11.6096 6.29177H1.78244C1.3478 6.29177 0.992188 6.64739 0.992188 7.08203C0.992188 7.51667 1.3478 7.87228 1.78244 7.87228Z"
+                                        fill="white"></path>
+                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                          d="M7.58421 1.13645C7.77874 0.941555 8.0428 0.832031 8.31817 0.832031C8.59361 0.832031 8.85773 0.941609 9.05228 1.13659L14.252 6.35207C14.6577 6.75791 14.6577 7.41409 14.252 7.81988L9.04418 13.0277C8.63835 13.4335 7.9822 13.4335 7.57636 13.0277C7.17054 12.6218 7.17054 11.9578 7.57636 11.5519L11.006 8.12228H1.78244C1.20973 8.12228 0.742188 7.65474 0.742188 7.08203C0.742188 6.50931 1.20973 6.04177 1.78244 6.04177H11.0078L7.58427 2.6042C7.17856 2.19838 7.17847 1.54225 7.58421 1.13645ZM8.31817 1.33203C8.17554 1.33203 8.03876 1.38878 7.93802 1.48975C7.72745 1.70031 7.72725 2.04008 7.93782 2.25065L12.2114 6.54177H1.78244C1.48587 6.54177 1.24219 6.78546 1.24219 7.08203C1.24219 7.37859 1.48587 7.62228 1.78244 7.62228H12.2131L7.92992 11.9055C7.71935 12.1161 7.71935 12.4635 7.92992 12.6741C8.14049 12.8847 8.48006 12.8847 8.69062 12.6741L13.8984 7.46633C14.109 7.25576 14.109 6.91619 13.8984 6.70562L8.69833 1.48975C8.59759 1.38882 8.46078 1.33203 8.31817 1.33203Z"
+                                          fill="white"></path>
+                                </svg>
+                            </button>
+                        </a>
+                    </div>
+                </div>
+                            <div class="flex-no-shrink slide">
+                    <div class="slide-content bg-white rounded-2xl shadow-sm p-5 lg:p-10 flex flex-col items-center h-full justify-between">
+                        <div class="flex items-center" style="height: 150px;">
+                            <div class="mx-auto" style="width: 100px;">
+                                <lottie-player
+                                    src="https://static8.lottiefiles.com/lotties/lf30_wfxrgvof.json"
+                                    speed="1" loop autoplay
+                                    style="width: 100%; height: 100%;"></lottie-player>
+                            </div>
+                        </div>
+
+                        <div>
+                            <h2 class="leading-normal text-center my-6 font-lf-bold font-normal text-2xl text-grey-darkest">Render, share and test right from within Adobe After Effects</h2>
+                            <p class="leading-normal text-center mb-8 text-grey-dark">The LottieFiles plugin for Adobe After Effects lets you go with the flow without leaving the interface, so you can stay in the zone.</p>
+                        </div>
+
+                        <a href="/plugins/after-effects">
+                            <button
+                                class="bg-grey-darkest text-lg text-white h-12 mb-6 rounded-md px-8 trans hover:shadow-sm-grey"><span
+                                    class="font-lf-semi-bold">Get the plugin</span>
+                                <svg width="15" height="14" viewBox="0 0 15 14" fill="none"
+                                     xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M1.78244 7.87228H11.6096L7.75314 11.7287C7.44494 12.0369 7.44494 12.5427 7.75314 12.8509C8.06134 13.1591 8.5592 13.1591 8.8674 12.8509L14.0752 7.64311C14.3834 7.33491 14.3834 6.83705 14.0752 6.52885L8.8753 1.31317C8.72766 1.16519 8.52721 1.08203 8.31817 1.08203C8.10914 1.08203 7.90869 1.16519 7.76104 1.31317C7.45285 1.62137 7.45285 2.11923 7.76104 2.42743L11.6096 6.29177H1.78244C1.3478 6.29177 0.992188 6.64739 0.992188 7.08203C0.992188 7.51667 1.3478 7.87228 1.78244 7.87228Z"
+                                        fill="white"></path>
+                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                          d="M7.58421 1.13645C7.77874 0.941555 8.0428 0.832031 8.31817 0.832031C8.59361 0.832031 8.85773 0.941609 9.05228 1.13659L14.252 6.35207C14.6577 6.75791 14.6577 7.41409 14.252 7.81988L9.04418 13.0277C8.63835 13.4335 7.9822 13.4335 7.57636 13.0277C7.17054 12.6218 7.17054 11.9578 7.57636 11.5519L11.006 8.12228H1.78244C1.20973 8.12228 0.742188 7.65474 0.742188 7.08203C0.742188 6.50931 1.20973 6.04177 1.78244 6.04177H11.0078L7.58427 2.6042C7.17856 2.19838 7.17847 1.54225 7.58421 1.13645ZM8.31817 1.33203C8.17554 1.33203 8.03876 1.38878 7.93802 1.48975C7.72745 1.70031 7.72725 2.04008 7.93782 2.25065L12.2114 6.54177H1.78244C1.48587 6.54177 1.24219 6.78546 1.24219 7.08203C1.24219 7.37859 1.48587 7.62228 1.78244 7.62228H12.2131L7.92992 11.9055C7.71935 12.1161 7.71935 12.4635 7.92992 12.6741C8.14049 12.8847 8.48006 12.8847 8.69062 12.6741L13.8984 7.46633C14.109 7.25576 14.109 6.91619 13.8984 6.70562L8.69833 1.48975C8.59759 1.38882 8.46078 1.33203 8.31817 1.33203Z"
+                                          fill="white"></path>
+                                </svg>
+                            </button>
+                        </a>
+                    </div>
+                </div>
+                            <div class="flex-no-shrink slide">
+                    <div class="slide-content bg-white rounded-2xl shadow-sm p-5 lg:p-10 flex flex-col items-center h-full justify-between">
+                        <div class="flex items-center" style="height: 150px;">
+                            <div class="mx-auto" style="width: 120px;">
+                                <lottie-player
+                                    src="https://static6.lottiefiles.com/lotties/lf30_deqc34dr.json"
+                                    speed="1" loop autoplay
+                                    style="width: 100%; height: 100%;"></lottie-player>
+                            </div>
+                        </div>
+
+                        <div>
+                            <h2 class="leading-normal text-center my-6 font-lf-bold font-normal text-2xl text-grey-darkest">Integrate Lottie animations in your websites</h2>
+                            <p class="leading-normal text-center mb-8 text-grey-dark">No matter what platform you’re using, it’s easy to embed animations into your website with just a few clicks.</p>
+                        </div>
+
+                        <a href="/web-player">
+                            <button
+                                class="bg-grey-darkest text-lg text-white h-12 mb-6 rounded-md px-8 trans hover:shadow-sm-grey"><span
+                                    class="font-lf-semi-bold">Open Web Player</span>
+                                <svg width="15" height="14" viewBox="0 0 15 14" fill="none"
+                                     xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M1.78244 7.87228H11.6096L7.75314 11.7287C7.44494 12.0369 7.44494 12.5427 7.75314 12.8509C8.06134 13.1591 8.5592 13.1591 8.8674 12.8509L14.0752 7.64311C14.3834 7.33491 14.3834 6.83705 14.0752 6.52885L8.8753 1.31317C8.72766 1.16519 8.52721 1.08203 8.31817 1.08203C8.10914 1.08203 7.90869 1.16519 7.76104 1.31317C7.45285 1.62137 7.45285 2.11923 7.76104 2.42743L11.6096 6.29177H1.78244C1.3478 6.29177 0.992188 6.64739 0.992188 7.08203C0.992188 7.51667 1.3478 7.87228 1.78244 7.87228Z"
+                                        fill="white"></path>
+                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                          d="M7.58421 1.13645C7.77874 0.941555 8.0428 0.832031 8.31817 0.832031C8.59361 0.832031 8.85773 0.941609 9.05228 1.13659L14.252 6.35207C14.6577 6.75791 14.6577 7.41409 14.252 7.81988L9.04418 13.0277C8.63835 13.4335 7.9822 13.4335 7.57636 13.0277C7.17054 12.6218 7.17054 11.9578 7.57636 11.5519L11.006 8.12228H1.78244C1.20973 8.12228 0.742188 7.65474 0.742188 7.08203C0.742188 6.50931 1.20973 6.04177 1.78244 6.04177H11.0078L7.58427 2.6042C7.17856 2.19838 7.17847 1.54225 7.58421 1.13645ZM8.31817 1.33203C8.17554 1.33203 8.03876 1.38878 7.93802 1.48975C7.72745 1.70031 7.72725 2.04008 7.93782 2.25065L12.2114 6.54177H1.78244C1.48587 6.54177 1.24219 6.78546 1.24219 7.08203C1.24219 7.37859 1.48587 7.62228 1.78244 7.62228H12.2131L7.92992 11.9055C7.71935 12.1161 7.71935 12.4635 7.92992 12.6741C8.14049 12.8847 8.48006 12.8847 8.69062 12.6741L13.8984 7.46633C14.109 7.25576 14.109 6.91619 13.8984 6.70562L8.69833 1.48975C8.59759 1.38882 8.46078 1.33203 8.31817 1.33203Z"
+                                          fill="white"></path>
+                                </svg>
+                            </button>
+                        </a>
+                    </div>
+                </div>
+                    </div>
+
+    </div>
+</div>
+
+    <div class="pt-12 sm:pt-24 -mb-10 bg-lf-bg">
+    <div class="container mx-auto">
+        <div class="flex flex-col items-center text-center">
+
+            <div class="flex flex-col items-center text-center px-5 md:px-0">
+                <h2 class="text-4xl sm:text-4-2xl font-normal font-lf-bold text-grey-darkest mb-4 leading-normal">Extraordinary performance, epic integrations</h2>
+                <p class="text-lg sm:text-xl text-grey-dark leading-normal max-w-md mb-16 relative z-20">Lottie works on any device and easily integrates with the tools you already use. Do your best work in less time with less hassle.</p>
+            </div>
+
+            <a href="/integrations" title="LottieFiles Integrations & Plugins" class="trans flex items-center text-lf-teal-dark-3 hover-fill-lf-teal hover:text-lf-teal relative z-30"><p
+                    class="text-lg font-lf-semi-bold mr-2">View all integrations</p>
+                <svg width="13" height="12" viewBox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg"
+                     class="mt-1">
+                    <path
+                        d="M1.63511 6.61411H9.99106L6.77736 9.82781C6.52053 10.0846 6.52053 10.5061 6.77736 10.7629C7.03419 11.0198 7.44907 11.0198 7.70591 10.7629L12.0457 6.42313C12.3026 6.1663 12.3026 5.75141 12.0457 5.49458L7.71249 1.14818C7.58946 1.02487 7.42242 0.955566 7.24822 0.955566C7.07402 0.955566 6.90698 1.02487 6.78394 1.14818C6.52711 1.40501 6.52711 1.8199 6.78394 2.07673L9.99106 5.29702H1.63511C1.27291 5.29702 0.976562 5.59336 0.976562 5.95556C0.976562 6.31776 1.27291 6.61411 1.63511 6.61411Z"
+                        fill="#08b9bb"></path>
+                    <path fill-rule="evenodd" clip-rule="evenodd"
+                          d="M6.60711 0.971461C6.77703 0.80123 7.00769 0.705566 7.24822 0.705566C7.48882 0.705566 7.71953 0.801284 7.88947 0.971604L12.2225 5.3178C12.5768 5.67228 12.5769 6.24548 12.2225 6.59991L7.88268 10.9397C7.52822 11.2942 6.95505 11.2942 6.60058 10.9397C6.24612 10.5853 6.24612 10.0055 6.60058 9.65103L9.38751 6.86411H1.63511C1.13484 6.86411 0.726562 6.45583 0.726562 5.95556C0.726562 5.45529 1.13484 5.04702 1.63511 5.04702H9.38925L6.60717 2.25351C6.2528 1.89906 6.25273 1.3259 6.60711 0.971461ZM7.24822 1.20557C7.14042 1.20557 7.03706 1.24845 6.96092 1.32476C6.80172 1.48396 6.80152 1.74075 6.96072 1.89995L10.5929 5.54702H1.63511C1.41098 5.54702 1.22656 5.73143 1.22656 5.95556C1.22656 6.17969 1.41098 6.36411 1.63511 6.36411H10.5946L6.95413 10.0046C6.79493 10.1638 6.79493 10.427 6.95413 10.5862C7.11334 10.7454 7.36993 10.7454 7.52913 10.5862L11.8689 6.24635C12.0281 6.08715 12.0281 5.83056 11.8689 5.67136L7.53552 1.32476C7.45939 1.24849 7.35598 1.20557 7.24822 1.20557Z"
+                          fill="#08b9bb"></path>
+                </svg>
+            </a>
+
+
+            <div class="integrations-list w-full flex justify-center items-center relative -mt-32 overflow-hidden">
+                <div class="circle-outer absolute rounded-full"></div>
+                <div class="circle-inner z-20 absolute rounded-full"></div>
+
+                <div class="circle-gradient-top z-10 w-full absolute"></div>
+                <div class="circle-gradient-bottom z-10 -mt-5 w-full absolute"></div>
+
+                <img class="logo absolute" src="https://static9.lottiefiles.com/images/v3/lf-intergrations-logo.svg" alt="">
+
+                                    <div
+                        class="integrations-icon integrations-icon-1 bg-white rounded-full absolute z-30 flex items-center justify-center">
+                        <img class="" src="https://static1.lottiefiles.com/images/v3/integrations-block/webflow.svg" alt="Webflow">
+                    </div>
+                                    <div
+                        class="integrations-icon integrations-icon-2 bg-white rounded-full absolute z-30 flex items-center justify-center">
+                        <img class="" src="https://static6.lottiefiles.com/images/v3/integrations-block/elementor.svg" alt="Elementor">
+                    </div>
+                                    <div
+                        class="integrations-icon integrations-icon-3 bg-white rounded-full absolute z-30 flex items-center justify-center">
+                        <img class="" src="https://static5.lottiefiles.com/images/v3/integrations-block/vscode.svg" alt="VSCode">
+                    </div>
+                                    <div
+                        class="integrations-icon integrations-icon-4 bg-white rounded-full absolute z-30 flex items-center justify-center">
+                        <img class="" src="https://static6.lottiefiles.com/images/v3/integrations-block/AE.svg" alt="Adobe After Effects">
+                    </div>
+                                    <div
+                        class="integrations-icon integrations-icon-5 bg-white rounded-full absolute z-30 flex items-center justify-center">
+                        <img class="" src="https://static5.lottiefiles.com/images/v3/integrations-block/figma.svg" alt="Figma">
+                    </div>
+                                    <div
+                        class="integrations-icon integrations-icon-6 bg-white rounded-full absolute z-30 flex items-center justify-center">
+                        <img class="" src="https://static7.lottiefiles.com/images/v3/integrations-block/skia.svg" alt="Skia">
+                    </div>
+                                    <div
+                        class="integrations-icon integrations-icon-7 bg-white rounded-full absolute z-30 flex items-center justify-center">
+                        <img class="" src="https://static7.lottiefiles.com/images/v3/integrations-block/apple_android.svg" alt="Mobile">
+                    </div>
+                                    <div
+                        class="integrations-icon integrations-icon-8 bg-white rounded-full absolute z-30 flex items-center justify-center">
+                        <img class="" src="https://static6.lottiefiles.com/images/v3/integrations-block/animate.svg" alt="Animate">
+                    </div>
+                                    <div
+                        class="integrations-icon integrations-icon-9 bg-white rounded-full absolute z-30 flex items-center justify-center">
+                        <img class="" src="https://static2.lottiefiles.com/images/v3/integrations-block/framer.svg" alt="Framer">
+                    </div>
+                                    <div
+                        class="integrations-icon integrations-icon-10 bg-white rounded-full absolute z-30 flex items-center justify-center">
+                        <img class="" src="https://static8.lottiefiles.com/images/v3/integrations-block/microsoft.svg" alt="Microsoft">
+                    </div>
+                
+            </div>
+
+        </div>
+    </div>
+</div>
+
+    <div class="pb-6 md:pb-24 pt-8 md:pt-3 bg-lf-bg px-5 md:px-0">
+    <div class="container mx-auto">
+        <div class="flex flex-col items-center sm:text-center">
+            <h2 class="text-4xl sm:text-6xl font-normal font-lf-bold text-grey-darkest mb-4">Lottie is everywhere</h2>
+            <p class="text-lg sm:text-xl text-grey-dark leading-normal max-w-lg mb-10">Read user stories from the individuals and teams that use Lottie to boost conversions and engage users with powerful motion design experiences.</p>
+
+            <a href="/showcase" title="LottieFiles Showcase" class="trans flex items-center text-lf-teal-dark-3 hover-fill-lf-teal hover:text-lf-teal mb-20"><p
+                    class="text-lg font-lf-semi-bold mr-2">View showcases</p>
+                <svg width="13" height="12" viewBox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg"
+                     class="mt-1">
+                    <path
+                        d="M1.63511 6.61411H9.99106L6.77736 9.82781C6.52053 10.0846 6.52053 10.5061 6.77736 10.7629C7.03419 11.0198 7.44907 11.0198 7.70591 10.7629L12.0457 6.42313C12.3026 6.1663 12.3026 5.75141 12.0457 5.49458L7.71249 1.14818C7.58946 1.02487 7.42242 0.955566 7.24822 0.955566C7.07402 0.955566 6.90698 1.02487 6.78394 1.14818C6.52711 1.40501 6.52711 1.8199 6.78394 2.07673L9.99106 5.29702H1.63511C1.27291 5.29702 0.976562 5.59336 0.976562 5.95556C0.976562 6.31776 1.27291 6.61411 1.63511 6.61411Z"
+                        fill="#08b9bb"></path>
+                    <path fill-rule="evenodd" clip-rule="evenodd"
+                          d="M6.60711 0.971461C6.77703 0.80123 7.00769 0.705566 7.24822 0.705566C7.48882 0.705566 7.71953 0.801284 7.88947 0.971604L12.2225 5.3178C12.5768 5.67228 12.5769 6.24548 12.2225 6.59991L7.88268 10.9397C7.52822 11.2942 6.95505 11.2942 6.60058 10.9397C6.24612 10.5853 6.24612 10.0055 6.60058 9.65103L9.38751 6.86411H1.63511C1.13484 6.86411 0.726562 6.45583 0.726562 5.95556C0.726562 5.45529 1.13484 5.04702 1.63511 5.04702H9.38925L6.60717 2.25351C6.2528 1.89906 6.25273 1.3259 6.60711 0.971461ZM7.24822 1.20557C7.14042 1.20557 7.03706 1.24845 6.96092 1.32476C6.80172 1.48396 6.80152 1.74075 6.96072 1.89995L10.5929 5.54702H1.63511C1.41098 5.54702 1.22656 5.73143 1.22656 5.95556C1.22656 6.17969 1.41098 6.36411 1.63511 6.36411H10.5946L6.95413 10.0046C6.79493 10.1638 6.79493 10.427 6.95413 10.5862C7.11334 10.7454 7.36993 10.7454 7.52913 10.5862L11.8689 6.24635C12.0281 6.08715 12.0281 5.83056 11.8689 5.67136L7.53552 1.32476C7.45939 1.24849 7.35598 1.20557 7.24822 1.20557Z"
+                          fill="#08b9bb"></path>
+                </svg>
+            </a>
+
+            <div class="w-full flex flex-col sm:flex-row sm:-mx-10">
+                <a href="/showcase/disneynow" title="DisneyNOW Showcase" class="w-full inline-block sm:w-2/5 sm:mr-10 mb-10 sm:mb-0">
+                    <div class="w-full h-full flex flex-col rounded-xl bg-cover bg-center justify-between trans hover:shadow-lg" style="background-color: #2458C0;">
+                      
+                        <div class="w-1/3 self-end pt-6 pr-6">
+                            <img class="" src="https://static9.lottiefiles.com/images/v3/showcase-disneynow-logo.svg" alt="DisneyNOW logo">
+                        </div>
+                        <div class="w-1/3 self-center mb-4">
+                            <img src="https://static3.lottiefiles.com/images/v3/showcase-block/disneynow.png" alt="DisneyNOW image">
+                        </div>
+                        
+                        <div class="py-3 px-6 pb-8">
+                            <p class="text-left text-2xl sm:text-2xl leading-normal text-white font-lf-bold mb-8">“By leveraging Lottie animations, we can provide a whole experience.”</p>
+                                <div class="flex items-center sm:justify-end  text-lf-teal-dark-3 hover:text-lf-teal-dark">
+                                    <span class="text-lg text-white font-lf-semi-bold mr-2">View showcase</span> 
+                                    <svg width="13" height="12" viewBox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="mt-1">
+                                        <path d="M1.84995 6.90024H10.2059L6.9922 10.1139C6.73537 10.3708 6.73537 10.7922 6.9922 11.0491C7.24903 11.3059 7.66392 11.3059 7.92075 11.0491L12.2606 6.70926C12.5174 6.45243 12.5174 6.03755 12.2606 5.78071L7.92734 1.43431C7.8043 1.311 7.63726 1.2417 7.46306 1.2417C7.28887 1.2417 7.12182 1.311 6.99879 1.43431C6.74195 1.69115 6.74195 2.10603 6.99879 2.36286L10.2059 5.58315H1.84995C1.48775 5.58315 1.19141 5.87949 1.19141 6.24169C1.19141 6.60389 1.48775 6.90024 1.84995 6.90024Z" fill="#fff"></path> 
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.82195 1.25759C6.99188 1.08736 7.22253 0.991699 7.46306 0.991699C7.70366 0.991699 7.93438 1.08742 8.10431 1.25774L12.4373 5.60394C12.7917 5.95841 12.7918 6.53161 12.4373 6.88604L8.09753 11.2259C7.74306 11.5803 7.16989 11.5803 6.81542 11.2259C6.46096 10.8714 6.46096 10.2916 6.81542 9.93716L9.60235 7.15024H1.84995C1.34968 7.15024 0.941406 6.74197 0.941406 6.24169C0.941406 5.74142 1.34968 5.33315 1.84995 5.33315H9.60409L6.82201 2.53964C6.46764 2.18519 6.46757 1.61204 6.82195 1.25759ZM7.46306 1.4917C7.35527 1.4917 7.2519 1.53458 7.17576 1.61089C7.01656 1.77009 7.01636 2.02688 7.17556 2.18609L10.8077 5.83315H1.84995C1.62582 5.83315 1.44141 6.01757 1.44141 6.24169C1.44141 6.46582 1.62582 6.65024 1.84995 6.65024H10.8095L7.16898 10.2907C7.00978 10.4499 7.00978 10.7131 7.16898 10.8723C7.32818 11.0315 7.58477 11.0315 7.74397 10.8723L12.0838 6.53248C12.243 6.37328 12.243 6.11669 12.0838 5.95749L7.75036 1.61089C7.67423 1.53463 7.57083 1.4917 7.46306 1.4917Z" fill="#fff"></path>
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+                </a>
+
+                <div class="w-full sm:w-3/5 flex flex-col justify-between">
+
+                    <a href="/showcase/duolingo" title="Duolingo Showcase" class="flex flex-col sm:flex-row mb-10 sm:mb-0">
+                        <div class="w-full sm:w-1/2 pr-0 sm:pr-6">
+                            <img
+                                class="w-full shadow-sm rounded-2xl"
+                                src="https://static9.lottiefiles.com/images/v3/showcase-block/duolingo-card.png"
+                                loading="lazy"
+                                alt="">
+                        </div>
+                        <div class="w-full sm:w-1/2 px-4 sm:px-6 flex flex-col justify-center py-3 sm:py-0">
+                            <p class="text-left text-xl sm:text-2xl text-grey-darkest font-normal font-lf-bold mb-4 leading-normal">“Lottie animations help us keep users engaged, delighted, and always learning.”</p>
+                            <div class="flex items-center  text-lf-teal-dark-3 hover:text-lf-teal-dark">
+                                <span class="text-lg text-grey-dark font-lf-semi-bold mr-2">View showcase</span>
+                                <svg class="mt-1" width="13" height="12" viewBox="0 0 13 12" fill="none"
+                                     xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M1.84995 6.90024H10.2059L6.9922 10.1139C6.73537 10.3708 6.73537 10.7922 6.9922 11.0491C7.24903 11.3059 7.66392 11.3059 7.92075 11.0491L12.2606 6.70926C12.5174 6.45243 12.5174 6.03755 12.2606 5.78071L7.92734 1.43431C7.8043 1.311 7.63726 1.2417 7.46306 1.2417C7.28887 1.2417 7.12182 1.311 6.99879 1.43431C6.74195 1.69115 6.74195 2.10603 6.99879 2.36286L10.2059 5.58315H1.84995C1.48775 5.58315 1.19141 5.87949 1.19141 6.24169C1.19141 6.60389 1.48775 6.90024 1.84995 6.90024Z"
+                                        fill="#8795A1"/>
+                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                          d="M6.82195 1.25759C6.99188 1.08736 7.22253 0.991699 7.46306 0.991699C7.70366 0.991699 7.93438 1.08742 8.10431 1.25774L12.4373 5.60394C12.7917 5.95841 12.7918 6.53161 12.4373 6.88604L8.09753 11.2259C7.74306 11.5803 7.16989 11.5803 6.81542 11.2259C6.46096 10.8714 6.46096 10.2916 6.81542 9.93716L9.60235 7.15024H1.84995C1.34968 7.15024 0.941406 6.74197 0.941406 6.24169C0.941406 5.74142 1.34968 5.33315 1.84995 5.33315H9.60409L6.82201 2.53964C6.46764 2.18519 6.46757 1.61204 6.82195 1.25759ZM7.46306 1.4917C7.35527 1.4917 7.2519 1.53458 7.17576 1.61089C7.01656 1.77009 7.01636 2.02688 7.17556 2.18609L10.8077 5.83315H1.84995C1.62582 5.83315 1.44141 6.01757 1.44141 6.24169C1.44141 6.46582 1.62582 6.65024 1.84995 6.65024H10.8095L7.16898 10.2907C7.00978 10.4499 7.00978 10.7131 7.16898 10.8723C7.32818 11.0315 7.58477 11.0315 7.74397 10.8723L12.0838 6.53248C12.243 6.37328 12.243 6.11669 12.0838 5.95749L7.75036 1.61089C7.67423 1.53463 7.57083 1.4917 7.46306 1.4917Z"
+                                          fill="#8795A1"/>
+                                </svg>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a href="/showcase/cred" title="Cred Showcase" class="flex flex-col sm:flex-row mb-10 sm:mb-0">
+                        <div class="w-full sm:w-1/2 pr-0 sm:pr-6 flex flex-end">
+                            <img
+                                class="w-full shadow-sm rounded-2xl"
+                                src="https://static6.lottiefiles.com/images/v3/showcase-block/cred.png"
+                                loading="lazy"
+                                alt="">
+                        </div>
+                        <div class="w-full sm:w-1/2 px-4 sm:px-6 flex flex-col justify-center py-3 sm:py-0">
+                            <p class="text-left text-xl sm:text-2xl text-grey-darkest font-normal font-lf-bold mb-4 leading-normal">“Lottie is the middle man that helped transform pixels to code, and code back to pixels.”</p>
+                            <div class="flex items-center text-lf-teal-dark-3 hover:text-lf-teal-dark">
+                                <span class="text-lg text-grey-dark font-lf-semi-bold mr-2">View showcase</span>
+                                <svg class="mt-1" width="13" height="12" viewBox="0 0 13 12" fill="none"
+                                     xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M1.84995 6.90024H10.2059L6.9922 10.1139C6.73537 10.3708 6.73537 10.7922 6.9922 11.0491C7.24903 11.3059 7.66392 11.3059 7.92075 11.0491L12.2606 6.70926C12.5174 6.45243 12.5174 6.03755 12.2606 5.78071L7.92734 1.43431C7.8043 1.311 7.63726 1.2417 7.46306 1.2417C7.28887 1.2417 7.12182 1.311 6.99879 1.43431C6.74195 1.69115 6.74195 2.10603 6.99879 2.36286L10.2059 5.58315H1.84995C1.48775 5.58315 1.19141 5.87949 1.19141 6.24169C1.19141 6.60389 1.48775 6.90024 1.84995 6.90024Z"
+                                        fill="#8795A1"/>
+                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                          d="M6.82195 1.25759C6.99188 1.08736 7.22253 0.991699 7.46306 0.991699C7.70366 0.991699 7.93438 1.08742 8.10431 1.25774L12.4373 5.60394C12.7917 5.95841 12.7918 6.53161 12.4373 6.88604L8.09753 11.2259C7.74306 11.5803 7.16989 11.5803 6.81542 11.2259C6.46096 10.8714 6.46096 10.2916 6.81542 9.93716L9.60235 7.15024H1.84995C1.34968 7.15024 0.941406 6.74197 0.941406 6.24169C0.941406 5.74142 1.34968 5.33315 1.84995 5.33315H9.60409L6.82201 2.53964C6.46764 2.18519 6.46757 1.61204 6.82195 1.25759ZM7.46306 1.4917C7.35527 1.4917 7.2519 1.53458 7.17576 1.61089C7.01656 1.77009 7.01636 2.02688 7.17556 2.18609L10.8077 5.83315H1.84995C1.62582 5.83315 1.44141 6.01757 1.44141 6.24169C1.44141 6.46582 1.62582 6.65024 1.84995 6.65024H10.8095L7.16898 10.2907C7.00978 10.4499 7.00978 10.7131 7.16898 10.8723C7.32818 11.0315 7.58477 11.0315 7.74397 10.8723L12.0838 6.53248C12.243 6.37328 12.243 6.11669 12.0838 5.95749L7.75036 1.61089C7.67423 1.53463 7.57083 1.4917 7.46306 1.4917Z"
+                                          fill="#8795A1"/>
+                                </svg>
+                            </div>
+                        </div>
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+            
+    
+    
+
+    <div class="py-12 md:py-10 bg-white px-5 md:px-0">
+    <div class="container text-center sm:text-left mx-auto">
+
+        <div class="flex flex-col flex-col-reverse sm:justify-between sm:flex-row items-center">
+
+            <div class="w-full sm:w-1/2">
+                <p class="text-xl font-lf-semi-bold text-grey-dark mb-5">Motion made simple.</p>
+                <h2 class="text-4xl sm:text-5xl font-normal font-lf-bold text-grey-darkest leading-tight mb-10">
+                    Push your animation game to the next level.
+                </h2>
+
+                <a href="/getting-started" class="getting_started_button">
+    <button class="bg-lf-teal text-base trans hover:bg-lf-teal-dark-3 hover:shadow-lg-teal sm:text-lg text-white rounded-md py-4 px-8 sm:py-5 sm:px-16">
+        
+                    <span class="font-lf-bold">Sign up</span> for free
+                <svg width="15" height="14" viewBox="0 0 15 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path
+                d="M1.78244 7.87228H11.6096L7.75314 11.7287C7.44494 12.0369 7.44494 12.5427 7.75314 12.8509C8.06134 13.1591 8.5592 13.1591 8.8674 12.8509L14.0752 7.64311C14.3834 7.33491 14.3834 6.83705 14.0752 6.52885L8.8753 1.31317C8.72766 1.16519 8.52721 1.08203 8.31817 1.08203C8.10914 1.08203 7.90869 1.16519 7.76104 1.31317C7.45285 1.62137 7.45285 2.11923 7.76104 2.42743L11.6096 6.29177H1.78244C1.3478 6.29177 0.992188 6.64739 0.992188 7.08203C0.992188 7.51667 1.3478 7.87228 1.78244 7.87228Z"
+                fill="white"/>
+            <path fill-rule="evenodd" clip-rule="evenodd"
+                  d="M7.58421 1.13645C7.77874 0.941555 8.0428 0.832031 8.31817 0.832031C8.59361 0.832031 8.85773 0.941609 9.05228 1.13659L14.252 6.35207C14.6577 6.75791 14.6577 7.41409 14.252 7.81988L9.04418 13.0277C8.63835 13.4335 7.9822 13.4335 7.57636 13.0277C7.17054 12.6218 7.17054 11.9578 7.57636 11.5519L11.006 8.12228H1.78244C1.20973 8.12228 0.742188 7.65474 0.742188 7.08203C0.742188 6.50931 1.20973 6.04177 1.78244 6.04177H11.0078L7.58427 2.6042C7.17856 2.19838 7.17847 1.54225 7.58421 1.13645ZM8.31817 1.33203C8.17554 1.33203 8.03876 1.38878 7.93802 1.48975C7.72745 1.70031 7.72725 2.04008 7.93782 2.25065L12.2114 6.54177H1.78244C1.48587 6.54177 1.24219 6.78546 1.24219 7.08203C1.24219 7.37859 1.48587 7.62228 1.78244 7.62228H12.2131L7.92992 11.9055C7.71935 12.1161 7.71935 12.4635 7.92992 12.6741C8.14049 12.8847 8.48006 12.8847 8.69062 12.6741L13.8984 7.46633C14.109 7.25576 14.109 6.91619 13.8984 6.70562L8.69833 1.48975C8.59759 1.38882 8.46078 1.33203 8.31817 1.33203Z"
+                  fill="white"/>
+        </svg>
+    </button>
+</a>
+            </div>
+
+            <div class="w-full mx-auto flex items-center justify-center mb-10 md:mb-0 md:w-1/3">
+                <lottie-player
+                    src="https://static3.lottiefiles.com/lotties/lf30_h8pc0mwv.json"
+                    background="transparent" speed="1" loop autoplay
+                    style="width: 100%; height: 100%"></lottie-player>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+    <lf-entry></lf-entry>
+
+
+            <lf-uploader></lf-uploader>
+    
+    <utils></utils>
+
+            <lf-quick-preview></lf-quick-preview>
+        <preview-handoff-modal></preview-handoff-modal>
+        <preview-handoff></preview-handoff>
+    
+    
+    <report-animation></report-animation>
+
+    <auth ref="auth"></auth>
+
+    <router-view></router-view>
+
+            <div class="bg-white px-5 md:px-0">
+    <footer class="container mx-auto py-12 border-t border-grey-lighter">
+        <div class="flex flex-wrap mb-6 -mx-2">
+            
+                
+                <div class="w-1/2 sm:w-1/6 px-2">
+                    <h5 class="mb-6 text-base text-grey-darkest leading-normal font-lf-semi-bold font-normal">Discover</h5>
+                    <ul class="list-reset mb-10">
+                                                                                    <li class="mb-3">
+                                    <a class="text-grey-dark" href="/featured" title="LottieFiles Free Animations"><span>Free Animations</span></a>
+                                </li>
+                                                                                                                <li class="mb-3">
+                                    <a class="text-grey-dark" href="/marketplace" title="LottieFiles Marketplace"><span>Marketplace</span></a>
+                                </li>
+                                                                                                                <li class="mb-3">
+                                    <a class="text-grey-dark" href="/marketplace/animators" title="LottieFiles Hire Animators"><span>Hire Animators</span></a>
+                                </li>
+                                                                                                                <li class="mb-3">
+                                    <a class="text-grey-dark" href="/showcase" title="LottieFiles Showcase"><span>Showcase</span></a>
+                                </li>
+                                                                                                                <li class="mb-3">
+                                    <a class="text-grey-dark" href="/marketplace/join" title="LottieFiles Sell animations"><span>Sell animations</span></a>
+                                </li>
+                                                                                                                <li class="mb-3">
+                                    <a class="text-grey-dark" href="/animated-stickers" title="LottieFiles Telegram sticker packs"><span>Telegram sticker packs</span></a>
+                                </li>
+                                                                        </ul>
+                </div>
+
+            
+                
+                <div class="w-1/2 sm:w-48 px-2">
+                    <h5 class="mb-6 text-base text-grey-darkest leading-normal font-lf-semi-bold font-normal">Design</h5>
+                    <ul class="list-reset mb-10">
+                                                                                    <li class="mb-3">
+                                    <a class="text-grey-dark" href="/plugins/after-effects" title="LottieFiles Adobe After Effects plugin"><span>Adobe After Effects plugin</span></a>
+                                </li>
+                                                                                                                <li class="mb-3">
+                                    <a class="text-grey-dark" href="/preview" title="LottieFiles Lottie Preview"><span>Lottie Preview</span></a>
+                                </li>
+                                                                                                                <li class="mb-3">
+                                    <a class="text-grey-dark" href="/editor" title="LottieFiles Lottie Editor"><span>Lottie Editor</span></a>
+                                </li>
+                                                                                                                <li class="mb-3">
+                                    <a class="text-grey-dark" href="/svg-to-lottie" title="LottieFiles SVG to Lottie"><span>SVG to Lottie</span></a>
+                                </li>
+                                                                                                                <li class="mb-3">
+                                    <a class="text-grey-dark" href="/figma" title="LottieFiles Figma Plugin"><span>Figma Plugin</span></a>
+                                </li>
+                                                                        </ul>
+                </div>
+
+            
+                
+                <div class="w-1/2 sm:w-48 px-2">
+                    <h5 class="mb-6 text-base text-grey-darkest leading-normal font-lf-semi-bold font-normal">Code</h5>
+                    <ul class="list-reset mb-10">
+                                                                                    <li class="mb-3">
+                                    <a class="text-grey-dark" href="/web-player" title="LottieFiles Web Player"><span>Web Player</span></a>
+                                </li>
+                                                                                                                <li class="mb-3">
+                                    <a class="text-grey-dark" href="https://github.com/LottieFiles/awesome-lottie" title="LottieFiles Lottie Libraries"><span>Lottie Libraries</span></a>
+                                </li>
+                                                                                                                <li class="mb-3">
+                                    <a class="text-grey-dark" href="/tools/json-editor" title="LottieFiles JSON Editor"><span>JSON Editor</span></a>
+                                </li>
+                                                                                                                <li class="mb-3">
+                                    <a class="text-grey-dark" href="/supported-features" title="LottieFiles Supported Features"><span>Supported Features</span></a>
+                                </li>
+                                                                        </ul>
+                </div>
+
+            
+                
+                <div class="w-1/2 sm:w-48 px-2">
+                    <h5 class="mb-6 text-base text-grey-darkest leading-normal font-lf-semi-bold font-normal">Learn</h5>
+                    <ul class="list-reset mb-10">
+                                                                                    <li class="mb-3">
+                                    <a class="text-grey-dark" href="/blog" title="LottieFiles Blog"><span>Blog</span></a>
+                                </li>
+                                                                                                                <li class="mb-3">
+                                    <a class="text-grey-dark" href="/course" title="LottieFiles Courses"><span>Courses</span></a>
+                                </li>
+                                                                                                                <li class="mb-3">
+                                    <a class="text-grey-dark" href="/what-is-lottie" title="LottieFiles What is Lottie"><span>What is Lottie</span></a>
+                                </li>
+                                                                                                                <li class="mb-3">
+                                    <a class="text-grey-dark" href="https://forum.lottiefiles.com" title="LottieFiles Forum"><span>Forum</span></a>
+                                </li>
+                                                                                                                <li class="mb-3">
+                                    <a class="text-grey-dark" href="https://lottiefiles.zendesk.com" title="LottieFiles FAQ &amp; Support"><span>FAQ &amp; Support</span></a>
+                                </li>
+                                                                        </ul>
+                </div>
+
+            
+                
+                <div class="w-1/2 sm:w-1/6 px-2">
+                    <h5 class="mb-6 text-base text-grey-darkest leading-normal font-lf-semi-bold font-normal">Terms and Policies</h5>
+                    <ul class="list-reset mb-10">
+                                                                                    <li class="mb-3">
+                                    <a class="text-grey-dark" href="/page/privacy-policy" title="LottieFiles Privacy Policy"><span>Privacy Policy</span></a>
+                                </li>
+                                                                                                                <li class="mb-3">
+                                    <a class="text-grey-dark" href="/page/terms-and-conditions" title="LottieFiles Terms and Conditions"><span>Terms and Conditions</span></a>
+                                </li>
+                                                                                                                <li class="mb-3">
+                                    <a class="text-grey-dark" href="/page/terms-of-sale" title="LottieFiles Terms of Sale"><span>Terms of Sale</span></a>
+                                </li>
+                                                                                                                <li class="mb-3">
+                                    <a class="text-grey-dark" href="/page/community-guidelines" title="LottieFiles Community Guidelines"><span>Community Guidelines</span></a>
+                                </li>
+                                                                                                                <li class="mb-3">
+                                    <a class="text-grey-dark" href="/page/upload-guidelines" title="LottieFiles Upload Guidelines"><span>Upload Guidelines</span></a>
+                                </li>
+                                                                        </ul>
+                </div>
+
+            
+                                    
+            <div class="w-1/2 sm:w-1/6 sm:ml-5">
+                <div class="mb-10">
+                    <h5 class="text-base text-grey-darkest leading-normal mb-5 font-lf-semi-bold font-normal">Get LottieFiles for mobile and desktop</h5>
+                    <div class="flex items-center -mx-2">
+                        <a href="/android" target="_blank" title="LottieFiles Android App" class="mx-2 hover:opacity-50">
+                            <img src="https://static7.lottiefiles.com/images/v3/footer/app_android.svg" alt="android">
+                        </a>
+                        <a href="/ios" target="_blank" title="LottieFiles iOS App" class="mx-2 hover:opacity-50">
+                            <img src="https://static9.lottiefiles.com/images/v3/footer/app_apple.svg" alt="Apple">
+                        </a>
+                        <a href="/desktop" target="_blank" title="LottieFiles Desktop App" class="mx-2 hover:opacity-50">
+                            <img src="https://static8.lottiefiles.com/images/v3/footer/app_desktop.svg" alt="desktop">
+                        </a>
+
+                    </div>
+                </div>
+
+
+                <div>
+                    <h5 class="text-base text-grey-darkest leading-normal mb-5 font-lf-semi-bold font-normal">Social</h5>
+                    <div class="flex flex-wrap items-center -mx-1">
+                        <a href="/facebook" target="_blank" title="LottieFiles Facebook" class="mx-1 mb-2 flex-no-shrink trans hover:opacity-50">
+                            <img src="https://static10.lottiefiles.com/images/v3/footer/social_facebook_2.svg" alt="facebook">
+                        </a>
+                        <a href="/instagram" target="_blank" title="LottieFiles Instagram" class="mx-1 mb-2 flex-no-shrink trans hover:opacity-50">
+                            <img src="https://static8.lottiefiles.com/images/v3/footer/social_instagram_2.svg" alt="instagram">
+                        </a>
+                        <a href="/twitter" target="_blank" title="LottieFiles Twitter" class="mx-1 mb-2 flex-no-shrink trans hover:opacity-50">
+                            <img src="https://static1.lottiefiles.com/images/v3/footer/social_twitter_2.svg" alt="twitter">
+                        </a>
+                        <a href="/youtube" target="_blank" title="LottieFiles Youtube" class="mx-1 mb-2 flex-no-shrink trans hover:opacity-50">
+                            <img src="https://static4.lottiefiles.com/images/v3/footer/social_youtube_2.svg" alt="youtube">
+                        </a>
+                        <a href="/dribbble" target="_blank" title="LottieFiles Dribbble" class="mx-1 mb-2 flex-no-shrink trans hover:opacity-50">
+                            <img src="https://static9.lottiefiles.com/images/v3/footer/social_dribbble_2.svg" alt="dribbble">
+                        </a>
+                        <a href="/discord" target="_blank" title="LottieFiles Community" class="mx-1 mb-2 flex-no-shrink trans hover:opacity-50">
+                            <img src="https://static2.lottiefiles.com/images/v3/footer/social_discord_2.svg" alt="discord">
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="flex flex-col sm:flex-row sm:items-end">
+            <div class="w-full mb-6 sm:w-1/3">
+                <p class="text-sm text-grey-dark leading-normal">LottieFiles is by Design Barn Inc.</p>
+                <p class="text-sm text-grey-dark leading-normal">Copyright © 2021 Design Barn Inc. All rights
+                    reserved.</p>
+            </div>
+
+            <made-with-love></made-with-love>
+
+
+            <div class="w-full mb-6 sm:w-1/3 flex sm:justify-end">
+                                    <a href="https://feedback.lottiefiles.com/web" class="text-sm text-grey-dark leading-normal mr-10 sm:mr-0 sm:ml-8">Feedback</a>
+                                    <a href="/press" class="text-sm text-grey-dark leading-normal mr-10 sm:mr-0 sm:ml-8">Press</a>
+                                    <a href="/team" class="text-sm text-grey-dark leading-normal mr-10 sm:mr-0 sm:ml-8">Meet the team</a>
+                                    <a href="/careers" class="text-sm text-grey-dark leading-normal mr-10 sm:mr-0 sm:ml-8">Careers</a>
+                            </div>
+
+        </div>
+
+    </footer>
+</div>
+        
+
+    <div id="recaptcha"></div>
+
+</div>
+
+<script>window.lf = window.lf || {};lf.url = "https:\/\/lottiefiles.com";lf.user = null;lf.staticPath = "https:\/\/static.lottiefiles.com";</script>
+<script>
+    var grecaptchaId;
+    var errorHandling = function(err) {}
+    var recaptchaCallback = function() {
+        grecaptchaId = grecaptcha.render('recaptcha', {
+            'sitekey' : '6Leeb1AaAAAAAI3KHnj46qY9tqNsSg-t8wR_W0B4',
+            'size': 'invisible',
+            'error-callback': errorHandling,
+        });
+    };
+</script>
+<script src="https://www.google.com/recaptcha/api.js?render=explicit&onload=recaptchaCallback"></script>
+
+<script src="https://static1.lottiefiles.com/js/manifest.6f99d5.js"></script>
+<script src="https://static1.lottiefiles.com/js/vendor.4f3b76.js"></script>
+<script src="https://static1.lottiefiles.com/js/app.f6debf.js"></script>
+<script src="https://static1.lottiefiles.com/js/lang.js"></script>
+
+
+    <script>
+                    let getting_started_button = document.querySelectorAll('.getting_started_button');
+            getting_started_button.forEach((item)=>{
+                item.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    window.Bus.$emit('AUTH_SIGNUP', {
+                        returnUrl: "/getting-started",
+                        source: "Getting Started CTA Button"
+                    });
+                });
+            });
+        
+        let players = document.querySelectorAll("lottie-player");
+        document.addEventListener("scroll", (e) => {
+            players.forEach(function (e) {
+                e.getBoundingClientRect().top - window.innerHeight < 0 && e.getBoundingClientRect().bottom > 0 ? e.play() : e.stop();
+            });
+        });
+
+    </script>
+
+                        <script>
+                let returnLink = 'https://lottiefiles.com';
+
+                window.addEventListener('load', (event) => {
+                    window.Bus.$emit('AUTH_LOGIN', {
+                        returnUrl: returnLink
+                    });
+                });
+            </script>
+        
+            
+
+
+
+    <script>
+        function openEntry(e,entry) {
+            e.preventDefault();
+            window.history.pushState({},"","/"+entry.slug);
+            window.Bus.$emit('ENTRY_OPEN', entry);
+        }
+    </script>
+
+    <script>
+
+        
+        let navShadows = true;
+
+        document.querySelector('.m-nav-search').addEventListener('click', ()=>{
+            document.querySelector('.lf-header').classList.add('mobile-search-active');
+            document.body.classList.add('noscroll');
+        });
+
+        document.querySelector('.m-nav-hamburger').addEventListener('click', ()=>{
+            document.querySelector('.lf-header').classList.add('mobile-nav-active');
+            document.body.classList.add('noscroll');
+        });
+
+        document.querySelector('.m-nav-close').addEventListener('click', ()=>{
+            document.querySelector('.lf-header').classList.remove('mobile-nav-active');
+            document.querySelector('.lf-header').classList.remove('mobile-search-active');
+            document.body.classList.remove('noscroll');
+        });
+
+        window.addEventListener('resize', ()=>{
+            resetNavMenu();
+            resetUserMenu();
+        });
+
+        document.addEventListener('scroll', ()=>{
+            if(navShadows && document.querySelector('body').getBoundingClientRect().y<0){
+                document.querySelector('.lf-header-container').classList.add('shadow-sm');
+            }else{
+                document.querySelector('.lf-header-container').classList.remove('shadow-sm');
+            }
+        });
+
+        let userMenuList = document.querySelector('.user-menu-list');
+        let menuItems = document.querySelectorAll('.nav-list-item');
+        let activeMenuId = null;
+
+        function resetUserMenu(){
+            if(userMenuList){
+                userMenuList.classList.remove('active');
+            }
+        }
+
+        function resetNavMenu(){
+            activeMenuId = null;
+            menuItems.forEach((item)=>{
+                item.classList.remove('active');
+            });
+        }
+
+        function toggleMenuNav(id){
+            resetUserMenu();
+            if(window.innerWidth<768) {
+                if (activeMenuId === id) {
+                    activeMenuId = null;
+                    document.querySelector('.nav-list-item-' + id).classList.toggle('active');
+                } else if (activeMenuId !== null) {
+                    document.querySelector('.nav-list-item-' + activeMenuId).classList.toggle('active');
+                    document.querySelector('.nav-list-item-' + id).classList.toggle('active');
+                    activeMenuId = id;
+                } else {
+                    document.querySelector('.nav-list-item-' + id).classList.toggle('active');
+                    activeMenuId = id;
+                }
+            }
+        }
+
+        function toggleUserNav(){
+            resetNavMenu();
+            if(window.innerWidth<768) {
+                document.querySelector('.user-menu-list').classList.toggle('active');
+            }
+        }
+
+    </script>
+
+    <div class="fixed pin-l pin-b p-6 sm:p-10 z-100">
+    <div class="js-cookie-consent bg-white w-full sm:w-auto rounded-lg shadow-md p-6">
+
+        <div class="w-16 mx-auto relative -mt-10 mb-3">
+            <img class="-mt-1" src="/images/svg/cookie.svg" alt="cookie">
+        </div>
+
+        <span class="cookie-consent__message w-full sm:w-48  block font-lf leading-normal text-grey-darkest text-xs mb-3">
+            We care about your data, and we'd love to use cookies to make your experience better.
+        </span>
+
+        <div class="flex items-center justify-between">
+            <a class="font-lf text-xs text-grey-dark mr-1" href="/page/privacy-policy">Privacy Policy</a>
+            <button
+                class="js-cookie-consent-agree bg-lf-teal trans text-xs hover:bg-lf-teal-dark rounded inline-block shadow px-8 py-2 text-white font-lf-bold cursor-pointer">
+                Ok
+            </button>
+        </div>
+
+    </div>
+</div>
+
+    <script>
+
+        window.laravelCookieConsent = (function () {
+
+            const COOKIE_VALUE = 1;
+            const COOKIE_DOMAIN = 'lottiefiles.com';
+
+            function consentWithCookies() {
+                setCookie('lottiefiles_cookie_consent', COOKIE_VALUE, 7300);
+                hideCookieDialog();
+            }
+
+            function cookieExists(name) {
+                return (document.cookie.split('; ').indexOf(name + '=' + COOKIE_VALUE) !== -1);
+            }
+
+            function hideCookieDialog() {
+                const dialogs = document.getElementsByClassName('js-cookie-consent');
+
+                for (let i = 0; i < dialogs.length; ++i) {
+                    dialogs[i].style.display = 'none';
+                }
+            }
+
+            function setCookie(name, value, expirationInDays) {
+                const date = new Date();
+                date.setTime(date.getTime() + (expirationInDays * 24 * 60 * 60 * 1000));
+                document.cookie = name + '=' + value
+                    + ';expires=' + date.toUTCString()
+                    + ';domain=' + COOKIE_DOMAIN
+                    + ';path=/'
+                    + '';
+            }
+
+            if (cookieExists('lottiefiles_cookie_consent')) {
+                hideCookieDialog();
+            }
+
+            const buttons = document.getElementsByClassName('js-cookie-consent-agree');
+
+            for (let i = 0; i < buttons.length; ++i) {
+                buttons[i].addEventListener('click', consentWithCookies);
+            }
+
+            return {
+                consentWithCookies: consentWithCookies,
+                hideCookieDialog: hideCookieDialog
+            };
+        })();
+    </script>
+
+
+</body>
+</html>
