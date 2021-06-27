@@ -13,7 +13,7 @@ package.domain = org.test
 source.dir = .
 
 # (list) Source files to include (let empty to include all the files)
-source.include_exts = py,png,jpg,kv,atlas
+source.include_exts = py,png,jpg,kv,atlas,json
 
 # (list) List of inclusions using pattern matching
 source.include_patterns = assets/*,images/*.png,
@@ -46,7 +46,7 @@ requirements = python3,kivy==2.0.0rc4,kivyMD,pillow,sdl2_ttf==2.0.15,Pygments
 #garden_requirements =
 
 # (str) Presplash of the application
-presplash.filename = %(source.dir)s/python.png
+#presplash.filename = %(source.dir)s/python.png
 
 # (str) Icon of the application
 icon.filename = %(source.dir)s/python.png
@@ -82,7 +82,10 @@ fullscreen = 0
 # red, blue, green, black, white, gray, cyan, magenta, yellow, lightgray,
 # darkgray, grey, lightgrey, darkgrey, aqua, fuchsia, lime, maroon, navy,
 # olive, purple, silver, teal.
-android.presplash_color = white
+#android.presplash_color = white
+
+android.presplash_lottie = "python.json"
+
 
 # (list) Permissions
 #android.permissions = INTERNET
