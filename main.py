@@ -52,36 +52,37 @@ class back(object):
         return out
 #file manager class for saving python files in any platform
 #can be used to read to
-class files(back ):
+class files(back):
     def __init__(self):
         super().__init__()
+        self.path = str(getcwd())
         self.manager_open = False
         print("file manager created")
-        self.file_manager = MDFileManager(
-         exit_manager=self.exit_manager,
-         select_path=self.select_path,
-        )
+        self.file_manager = MDFileManager(exit_manager=self.exit_manager,select_path=self.select_path,)
     def file_manager_open(self):
-        self.file_manager.show(str(getcwd()))  # output manager to the screen
+        self.file_manager.show('storage/emulated/0')  # output manager to the screen
         self.manager_open = True
+
 #After selecting the path if its a file it writes the content to it file
 #if a folder is selected it will create a file code.py  and write the content in it into the code.py
 #must  
     def select_path(self, path):
         self.exit_manager()
     
+        #try:
+         #   self.code= str(open(path,"r",encoding="utf8",errors="ignore").read())  
+          #  self.path = path
+           # toast("openinf the file "+path)
+        #except IsADirectoryError:
         try:
-            self.ids.input.text = str(open(path,"r",encoding="utf8",errors="ignore").read())  
-            toast("openinf the file "+path)
-        except IsADirectoryError:
-            try:
                 f = open(path+"/code.py",'w',encoding='utf8',errors='ignore')
                 f.write(self.code)
                 f.close()
                 toast("file saved"+path+"/code.py")
-            except PermissionError:
+        except NotADirectoryError:
+            toast(str(path)+"  is not a directory")
+        except PermissionError:
                 toast("This folder can't be used to save your code")
-        
     def exit_manager(self, *args):
         self.manager_open = False
         self.file_manager.close()
@@ -93,8 +94,12 @@ class files(back ):
 #have functionalities of compiling the program 
 #it is the main one 
 #main screen class to make things happen
-class MainScreen(Screen,files):
-
+class MainScreen(Screen,back):
+    
+    def folder(self):
+        x = files()
+        x.file_manager_open() 
+        self.ids.input.text = x.code
     
     def compile(self):
         print(" run button pressed")
@@ -115,6 +120,7 @@ class MainScreen(Screen,files):
         #self.ids.output.text = self.compile_code(self.path_output,string)
         #save the present code for next time when the useer open the code 
         runner.savedata(string,'code')
+       
 
 
 
