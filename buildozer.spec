@@ -4,7 +4,7 @@
 title = Py_Compiler
 
 # (str) Package name
-package.name = com.projects.Py_compiler
+package.name = com.android.projects.Py_compiler
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
@@ -28,7 +28,7 @@ source.include_patterns = assets/*,images/*.png,
 #source.exclude_patterns = license,images/*/*.jpg
 
 # (str) Application versioning (method 1)
-version = 0.2.0
+version = 0.3.1
 
 # (str) Application versioning (method 2)
 # version.regex = __version__ = ['"](.*)['"]
