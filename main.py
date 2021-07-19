@@ -52,45 +52,7 @@ class back(object):
         return out
 #file manager class for saving python files in any platform
 #can be used to read to
-class files(back):
-    def __init__(self):
-        super().__init__()
-        self.path = str(getcwd())
-        self.manager_open = False
-        print("file manager created")
-        self.file_manager = MDFileManager(exit_manager=self.exit_manager,select_path=self.select_path,)
-    def file_manager_open(self):
-        self.file_manager.show('storage/emulated/0')  # output manager to the screen
-        self.manager_open = True
 
-#After selecting the path if its a file it writes the content to it file
-#if a folder is selected it will create a file code.py  and write the content in it into the code.py
-#must  
-    def select_path(self, path):
-        self.exit_manager()
-    
-        #try:
-         #   self.code= str(open(path,"r",encoding="utf8",errors="ignore").read())  
-          #  self.path = path
-           # toast("openinf the file "+path)
-        #except IsADirectoryError:
-        try:
-                f = open(path+"/code.py",'w',encoding='utf8',errors='ignore')
-                f.write(self.code)
-                f.close()
-                toast("file saved"+path+"/code.py")
-        except NotADirectoryError:
-            toast(str(path)+"  is not a directory")
-        except PermissionError:
-                toast("This folder can't be used to save your code")
-    def exit_manager(self, *args):
-        self.manager_open = False
-        self.file_manager.close()
-    def events(self, instance, keyboard, keycode, text, modifiers):
-        if keyboard in (1001, 27):
-            if self.manager_open:
-                self.file_manager.back()
-        return True
 #have functionalities of compiling the program 
 #it is the main one 
 #main screen class to make things happen
