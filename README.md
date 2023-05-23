@@ -2,6 +2,4 @@
 This is a simple python compiler app written in kivy(a gui framework of python).
 This app takes python code and compiles and prints the output.
 You can't use input() method in this app.and terminal is not available.
-
-
-Modules used :Kivy==2.0.0,kivyMD,Pygements(code input),pillow,sdl2_ttf==2.0.15
+Modules used :Kivy==2.0.0,kivyMD,Pygements(code input),pillow,sdl2_ttf==2.0.15.
