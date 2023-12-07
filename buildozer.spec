@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Py_Compiler
+title = Py_CompilerTest
 
 # (str) Package name
 package.name = com.android.projects.Py_compiler
